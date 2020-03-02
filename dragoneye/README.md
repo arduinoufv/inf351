@@ -6,7 +6,7 @@
 
 [Git example](https://github.com/wermy/Uncanny_Eyes/blob/master/uncannyEyes/uncannyEyes.ino)
 
-[video] (https://www.youtube.com/watch?v=crMSpkif-k4&feature=emb_rel_pause)
+[video](https://www.youtube.com/watch?v=crMSpkif-k4&feature=emb_rel_pause)
 
 [video two eyes small oled](https://www.youtube.com/watch?v=n3Fj2zCOv98)
 
@@ -16,7 +16,7 @@ Documentação complementar: [Exemplo de uso com o Jogo Flappy Bird](https://www
 
 
 Projeto 2 - Adaptar o Dragon Eyes para o Display 1.3 polegada 240*240 ips tela st7789
-Documentação Complementar: [Exemplo de uso com NodeMCU] (https://simple-circuit.com/esp8266-nodemcu-st7789-tft-ips-display/)
+Documentação Complementar: [Exemplo de uso com NodeMCU](https://simple-circuit.com/esp8266-nodemcu-st7789-tft-ips-display/)
 
 Projeto 3 - Adaptar o Dragon Eyes para o Display Oled 0.96 I2C
 
