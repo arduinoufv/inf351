@@ -25,6 +25,7 @@ https://randomnerdtutorials.com/esp32-cam-troubleshooting-guide/
 
 [esp cam get starting video I](https://www.youtube.com/watch?v=0_pewS4IPN4&feature=youtu.be)
 
+[Espcam e Low Power](https://time4ee.com/articles.php?article_id=126)
 
 Tutotial 1: Uso do EspCAM como camera de Segurança
 

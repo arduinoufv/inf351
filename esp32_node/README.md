@@ -18,8 +18,12 @@
 [Graphics Outputs Video]
 (https://www.youtube.com/watch?v=1TGuw-cSR_I&feature=youtu.be)
 
+[Multiple Display](https://www.youtube.com/watch?v=WL8Xs5D2VUA&feature=youtu.be)
+
 [Webserver]
 (https://randomnerdtutorials.com/esp32-esp8266-plot-chart-web-server/)
+
+[Network Packet Monitor](https://github.com/spacehuhn/PacketMonitor32/)
 
 
 [I2C](https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/)
