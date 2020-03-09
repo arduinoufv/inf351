@@ -6,7 +6,7 @@ Criar uma conta no TinkerCad
 
 Cada grupo irá executar um projeto e tornar público o link.
 
-* Criar dois semaforos com leds onde o tempo pode ser atualizado pela interface serial. Fazer uma versão com sinal de pedestre "inteligente" semelhante das 4 Pilatras. 
+* Criar dois semaforos com leds onde o tempo pode ser atualizado pela interface serial. Fazer uma versão com sinal de pedestre "inteligente" semelhante das 4 Pilastras. 
 
 * Um contador de pulsos com duas chaves e um led RGB. O led ficará Azul se a chave 1 estiver com mais pulsos, Vermelho se for a chave 2 e verde se tiver empatado. 
 
