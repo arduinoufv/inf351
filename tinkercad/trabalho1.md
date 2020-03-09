@@ -16,7 +16,7 @@ Cada grupo irá executar um projeto e tornar público o link.
 
 * Criar comandos no Serial para Acender/Apagar ou no modo pisca com um tempo de acesso e um tempo de apaga e a quantidade de vezes que irá piscar.
 
-* Projeto do medidor que resistências
+*  [Medidor de Resistencia, adaptar o projeto com LCD 44870 16x2](https://create.arduino.cc/projecthub/federico-vivaldi/sorting-resistors-the-lazy-way-ceb557)
 
 * Com um PIR e um LED. Projetar um sistema que o LED ficará acesso 5 segundos com o PIR. Se o PIR for ativado mais de uma vez em menos de 5 segundos, o led dobra o tempo. Depois volta ao funcionamento de 5 segundos, se o PIR for ativo apenas uma vez no intervalo.
 
