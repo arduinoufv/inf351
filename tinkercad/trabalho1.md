@@ -28,5 +28,15 @@ Cada grupo irá executar um projeto e tornar público o link.
 
 * Acender um Led por um tempo aleatorio de 1 a 10 segundos. Depois a pessoa deve pressionar a chave pelo mesmo tempo que o Led ficou acesso com margem de erro de 20%. Se a pessoa acertar, o LED pisca rapido 10 vezes. Se a pessoa errar, pisca devagar 3x. Depois volta a proxima rodada. 
 
+* Montar uma matriz 8x8 com leds ws2812 e escrever as letras. Leitura no serial e mostra na matriz.
+
+* Montar um relogio com dois aneis de 12 e 24. O Anel interno mostra a Hora e o Anel externo os minutos.
+
+* Montar um cubo de LED 3x3x3. [Exemplo Random](https://www.tinkercad.com/things/iDMYhxiUB9u-cubo-3x3x3-leds-aleatorios) - Fazer uma navegação com 4 chaves (cima, baixo, esq, dir) para caminhar no cubo.
+
+* Montar um cubo de LED 3x3x3. [Exemplo Random](https://www.tinkercad.com/things/iDMYhxiUB9u-cubo-3x3x3-leds-aleatorios) - Com um teclado 4x4 escolhe o led que irá acender.
+
+
+
 
 
