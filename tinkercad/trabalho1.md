@@ -26,6 +26,10 @@ Cada grupo irá executar um projeto e tornar público o link.
 
 * Versão do Jogo Genius com uma barra WS2812 com 8 leds.
 
+* Fazer uma matrix de 20 leds com a disposição 4x5 para caracteres usando (charlieplex)[https://fabianoallex.blogspot.com/2019/04/arduino-charlieplexing.html]
+
+* Fazer o [charlieplex](https://fabianoallex.blogspot.com/2019/04/arduino-charlieplexing.html) com 6 leds para o Sinal de Transito.
+
 * Acender um Led por um tempo aleatorio de 1 a 10 segundos. Depois a pessoa deve pressionar a chave pelo mesmo tempo que o Led ficou acesso com margem de erro de 20%. Se a pessoa acertar, o LED pisca rapido 10 vezes. Se a pessoa errar, pisca devagar 3x. Depois volta a proxima rodada. 
 
 * Montar uma matriz 8x8 com leds ws2812 e escrever as letras. Leitura no serial e mostra na matriz.
@@ -35,6 +39,8 @@ Cada grupo irá executar um projeto e tornar público o link.
 * Montar um cubo de LED 3x3x3. [Exemplo Random](https://www.tinkercad.com/things/iDMYhxiUB9u-cubo-3x3x3-leds-aleatorios) - Fazer uma navegação com 4 chaves (cima, baixo, esq, dir) para caminhar no cubo.
 
 * Montar um cubo de LED 3x3x3. [Exemplo Random](https://www.tinkercad.com/things/iDMYhxiUB9u-cubo-3x3x3-leds-aleatorios) - Com um teclado 4x4 escolhe o led que irá acender.
+
+* Montar um cubo de LED 3x3x3. [Exemplo Random](https://www.tinkercad.com/things/iDMYhxiUB9u-cubo-3x3x3-leds-aleatorios) - Com um teclado [Charlieplex](http://fabianoallex.blogspot.com/2017/11/demonstracao-de-como-utilizar-varios.html) com 12 chaves, onde voce escolhe o plano com 1 botao e acende e apaga o led com outro.
 
 
 
