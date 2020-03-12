@@ -5,6 +5,8 @@ Criar uma conta no TinkerCad
 # Projetos
 
 Cada grupo irá executar um projeto e tornar público o link.
+Cada grupo irá executar um projeto e tornar público o link. Cada trabalho deve ter um repositório no github com uma página de readme.md no estilo do blog Filipe Flop. Coomo por exemplo este [pequeno projeto com o Debounce](https://www.filipeflop.com/blog/debounce-o-que-e-e-como-resolver-via-software/)
+Para criar a "pagina" use os recursos do github. Sugestão [editar o exemplo deste arquivo](https://github.com/arduinoufv/inf351/blob/master/README_template.md) para observar como fazer fontes em destaque com '#' na frente, 
 
 * Criar dois semaforos com leds onde o tempo pode ser atualizado pela interface serial. Fazer uma versão com sinal de pedestre "inteligente" semelhante das 4 Pilastras. 
 
