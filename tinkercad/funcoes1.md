@@ -1,17 +1,25 @@
-Funções básicas
+# Funções básicas
 
-1. Entradas e Saídas Digitais, Entradas e Saídas Analógicas
+## Entradas e Saídas Digitais, Entradas e Saídas Analógicas
 
-2. Temporização 
+digitalRead + pullup, digitalWrite, analogRead e analogWrite 
 
-3. Interface Serial
+## Temporização 
 
-4. Manipulação de Strings
+   delay, millis, micros, delayMicroseconds + limite em minutos, dias, etc...
 
-5. Biblioteca com Ultrasonico
+## Interface Serial
 
-6. Biblioteca com Led Endereçavel
+   available, read, write, parseInt, parseFloat, terminadores de linhas
 
-7. Comunicação com dois Arduinos
+## Manipulação de Strings 
+
+converter para inteiro, ler e escrever na serial, substring e comparacoes
+
+## Biblioteca com Ultrasonico
+
+##  Biblioteca com Led Endereçavel
+
+## Comunicação com dois Arduinos
 
 
