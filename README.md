@@ -1,7 +1,8 @@
 Projetos da Disciplina INF351 - Sistemas Embarcados
 
 
-Dragon Eyes - Olho de Dragão com movimento em Display TFT, Oled, etc....
+[Video com demos: Dragon Eyes - Olho de Dragão com movimento em Display TFT, Oled, etc....](https://www.youtube.com/watch?v=90uBrj6BykY)
+[Luminaria da Arquitetura](https://youtu.be/yezu6iluCMc)
 
 
 # Exemplos do Blog da FilipeFlop
