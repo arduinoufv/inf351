@@ -67,8 +67,10 @@ Add additional notes about how to deploy this on a live system
  For figures "![Image description](link-to-image)" to include  ![here a example](https://github.com/arduinoufv/inf351/blob/master/in_case_of_fire.png)
  
  to scale it
- "![test](https://github.com/arduinoufv/inf351/blob/master/in_case_of_fire.png | width=200)"
- ![here a example](https://github.com/arduinoufv/inf351/blob/master/in_case_of_fire.png | width=200)
+```
+ <img src="https://github.com/arduinoufv/inf351/blob/master/in_case_of_fire.png" width="48">
+ ```
+<img src="https://github.com/arduinoufv/inf351/blob/master/in_case_of_fire.png" width="100">
 
 ## Contributing
 
