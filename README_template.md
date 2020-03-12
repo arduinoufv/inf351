@@ -64,7 +64,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Figures
 
-Usar '![Image description](link-to-image)' para incluir uma imagem. ![Aqui um exemplo](https://github.com/arduinoufv/inf351/edit/master/git.png)
+ For figures "![Image description](link-to-image)" to include  ![here a example](https://github.com/arduinoufv/inf351/blob/master/in_case_of_fire.png)
 
 ## Contributing
 
