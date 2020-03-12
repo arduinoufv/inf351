@@ -62,6 +62,10 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
+## Figures
+
+Usar '![Image description](link-to-image)' para incluir uma imagem. ![Aqui um exemplo](https://github.com/arduinoufv/inf351/edit/master/git.png)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
