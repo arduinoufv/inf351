@@ -17,6 +17,13 @@ No TinkerCAD e com componentes:
 # Led RGB
 
 # LDR
+Grupo: Luis Eduardo e Gabriel
+* Explicar o funcionamento do LDR
+
+No TinkerCAD e com os componentes
+* ldr+resistor, fazer a leitura na entrada analogica e mostrar no terminal serial
+* controlar o brilho do led através do LDR
+* O led ficará piscando e a frequencia (mais lento ou mais rápido) será controlada através do LDR
 
 # Sensor de Presença
 
