@@ -1,13 +1,27 @@
-Conhecendo os componentes
+Conhecendo os componentes. Elaborar um arquivo MD com as explicações do exercícios, trechos de código, vídeo bem curto (menos de 20 segundos, preferencialmente com a demo). Link das demos no TinkerCAD. 
+O Git deve conter os códigos. . Enviar os links para atualizar abaixo. 
 
-1. Resistores, Multimetro e Amperímetro
+# Resistores, Multimetro e Amperímetro
 
-2. Led, Multimetro e Amperímetro
+# Led, Multimetro e Amperímetro
 
-3. Chave com Pull-up, Pull-Down interno e externo
+# Chave com Pull-up, Pull-Down interno e externo
+Grupo: Valéria, Luciana, Gabriel, Rafael
 
-4. Led RGB
+* Explicar as técnicas de pull-up e pull-down, elaborar uma montagem no TinkerCAD
 
-5. LDR e Sensor de presença
+No TinkerCAD e com componentes:
+* Chave pullup, 2 leds, cada vez que aperta acende um led e apaga o outro, alterna
+* Chave pullup, 2 leds, solta led 1 piscando, apertada: led 1 acesso e led 2 piscando.
 
-6. 
+# Led RGB
+
+# LDR
+
+# Sensor de Presença
+
+# Ultrasonico
+Grupo: Igor
+
+
+
