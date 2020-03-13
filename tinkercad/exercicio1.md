@@ -15,6 +15,11 @@ No TinkerCAD e com componentes:
 * Chave pullup, 2 leds, solta led 1 piscando, apertada: led 1 acesso e led 2 piscando.
 
 # Led RGB
+Grupo: Erick, Yago, Guilherme, Savio
+* Explicar a diferença Catodo comum e Anodo comum
+
+No TinkerCAD e com componentes:
+
 
 # LDR
 Grupo: Luis Eduardo e Gabriel
