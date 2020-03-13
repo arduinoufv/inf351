@@ -23,5 +23,8 @@ No TinkerCAD e com componentes:
 # Ultrasonico
 Grupo: Igor
 
+# Sensor Reflexivo
+[Exemplo de montagem](https://www.arduinoecia.com.br/sensor-optico-reflexivo-tcrt5000-arduino/)
+
 
 
