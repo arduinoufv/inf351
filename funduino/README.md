@@ -9,4 +9,4 @@ buttons na parte central inferior na placa, chamados F e E, que correspondem aos
 
 ## Joystick 
 
-Possui movimentos em X e Y  (associados aos pinos A0 e A1 do Arduino) e o click, associado ao pino D6.
+Possui movimentos em X e Y  (associados aos pinos A0 e A1 do Arduino) e o click, associado ao pino D8.
