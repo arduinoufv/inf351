@@ -1,6 +1,5 @@
 # Shield com LCD e teclado
-
-'''
+```
 #include <LiquidCrystal.h> //INCLUSÃO DE BIBLIOTECA
   
 LiquidCrystal lcd(8, 9, 4, 5, 6, 7); //PORTAS DO ARDUINO QUE SÃO UTILIZADAS PELO SHIELD KEYPAD DISPLAY LCD
@@ -29,4 +28,5 @@ void loop(){
   lcd.print ("     SELECT    "); //ESCREVE NO LCD O TEXTO 
  }  
 }
-'''
+```
+
