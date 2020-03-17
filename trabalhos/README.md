@@ -1,7 +1,6 @@
-Sexta dia 13 Março, procurar Ricardo na sala 404b nos horários 8-9, 11-12, 14-15
-Pelo menos dois integrantes do grupo que pode ter de 3-4 pessoas. 
+Nesta páginas estarão as instruções para os trabalhos e exercícios.
 
-# Tarefas para dia 19 de Março
+# Tarefas para dia (data a definir)
 
 * [Exercicio 1 com TinkerCad e Arduino: leds, chaves, protoboard, resistores, multimetro](https://github.com/arduinoufv/inf351/blob/master/tinkercad/exercicio1.md)
 
@@ -9,6 +8,6 @@ Pelo menos dois integrantes do grupo que pode ter de 3-4 pessoas.
 
 * [Funcoes 1 - Conhecendo as funções e métodos básicos do Arduino](https://github.com/arduinoufv/inf351/blob/master/tinkercad/funcoes1.md)
 
-# Tarefas para dia 26 de Março
+# Tarefas para dia (data a definir)
 
 [Trabalho 1 com TinkerCad](https://github.com/arduinoufv/inf351/blob/master/tinkercad/trabalho1.md)
