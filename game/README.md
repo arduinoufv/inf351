@@ -27,6 +27,10 @@ Display gráfico LCD 128×64 – ST7920
 Documentação complementar: [Exemplo de uso](https://www.arduinoecia.com.br/display-grafico-lcd-128x64-st7920-arduino/) 
 
 
+[Projeto ESPBoy derivado ArdBoy com varios jogos](https://github.com/tonym128/ESPboy_Arduboy2_lib)
 
+[Video Espboy](https://www.youtube.com/watch?v=sHrSPXpTcYI)
+
+[Video 50 games com ArduBoy](https://www.youtube.com/watch?v=sn3lKE1kZcE)
 
 
