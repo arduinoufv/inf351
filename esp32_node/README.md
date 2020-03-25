@@ -1,3 +1,5 @@
+[Novo ESP32-S2 com Risc-V coprocessador](https://hackaday.com/2020/03/23/esp32-s2-samples-show-up/)
+
 [Youtube Channel Technical Nodes](https://www.youtube.com/user/G6EJD/videos)
 
 [GP IO](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
