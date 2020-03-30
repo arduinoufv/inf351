@@ -14,3 +14,5 @@ if (irrecv.decode(&results)) {  // Grab an IR code
   }
   
    [Example to be adapted](https://github.com/rabee2050/arduino-ir/blob/master/ir_sketch_v1.0/ir_sketch_v1.0.ino)
+   
+   [Outro exemplo que pode ser adaptado](https://create.arduino.cc/projecthub/VE1DX/repurpose-old-remote-controls-92139f)
