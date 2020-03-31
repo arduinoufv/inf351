@@ -12,6 +12,9 @@ https://randomnerdtutorials.com/esp32-cam-troubleshooting-guide/
 
 [ESP32-CAM: enregistrer des photos sur la carte microSD](https://electroniqueamateur.blogspot.com/2020/02/esp32-cam-enregistrer-des-photos-sur-la.html)
 
+
+[Bring Tensorflow Lite to ESP32 Arduino ](http://www.iotsharing.com/2020/03/bring-tensorflow-lite-to-esp32-person-detection-deep-learning.html)
+
 [QRCODE](https://github.com/donny681/ESP32_CAMERA_QR)
 
 [Face](https://github.com/espressif/esp-who)
