@@ -2,6 +2,8 @@
 
 [Youtube Channel Technical Nodes](https://www.youtube.com/user/G6EJD/videos)
 
+[Get Started](https://www.youtube.com/watch?v=xPlN_Tk3VLQ)
+
 [GP IO](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
 
 [Send Email NodeMcu](https://github.com/G6EJD/ESP8266-Sending-Emails/blob/master/ESP8366_Send_eMail_YT.ino)
