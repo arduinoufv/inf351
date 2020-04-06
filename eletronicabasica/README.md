@@ -9,3 +9,7 @@
 
 [Ingles- Explica com Transistores podem amplificar a corrente para um LED - Driver](https://www.youtube.com/watch?v=SNSOGNF0aWg)
 
+# Medindo Corrente com Sensores
+
+[Avaliaçao de 7 sensores -Video em Ingles](https://www.youtube.com/watch?v=cG8moaufmQs)
+
