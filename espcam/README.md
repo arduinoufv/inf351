@@ -1,5 +1,7 @@
 [Specs](https://github.com/raphaelbs/esp32-cam-ai-thinker/blob/master/assets/ESP32-CAM_Product_Specification.pdf)
 
+[Demo em portugues com código](https://www.youtube.com/watch?v=MGPL10N9YmM)
+
 
 - Video Streaming, Face Detection and Face Recognition
 https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
