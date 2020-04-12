@@ -2,6 +2,9 @@
 
 [Demo em portugues com código](https://www.youtube.com/watch?v=MGPL10N9YmM)
 
+[Carro com controle Remoto](https://www.youtube.com/watch?v=BwsH1kLxDmQ&feature=youtu.be)  --- [Blog version here:] (https://robotzero.one/esp32-cam-rc-car/)
+
+
 
 - Video Streaming, Face Detection and Face Recognition
 https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
