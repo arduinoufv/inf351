@@ -13,3 +13,6 @@
 
 [Avaliaçao de 7 sensores -Video em Ingles](https://www.youtube.com/watch?v=cG8moaufmQs)
 
+# Osciloscopio 
+[Versão em Android para 5Khz](https://create.arduino.cc/projecthub/moty/android-oscilloscope-2c77ad)
+
