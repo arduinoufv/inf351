@@ -6,7 +6,7 @@
 
 # Sugestoes de Palestras
 
-## Segunda 26 de Abril
+## Segunda 27 de Abril
 * 14:00 - 15:00: (B1) Introdução: O que é microeletrônica? O que é um Transistor? Como fabricar um transistor.
 * 15:00 - 16:00: (B2) Portas Lógicas CMOS. Leiaute de Portas Lógicas.
 * 16:15 - 17:15: (B3) Estilos de Projeto: Semi-Custom, Full-Custom, FPGA
