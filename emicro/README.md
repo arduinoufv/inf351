@@ -2,6 +2,8 @@
 
 [Ainda estao abertas Inscriçoes](https://forms.gle/rZCBpf2i18xB9hsw5)
 
+[Site do Evento](http://www.projetos.unijui.edu.br/emicro-sim/)
+
 # Sugestoes de Palestras
 
 ## Segunda 26 de Abril
