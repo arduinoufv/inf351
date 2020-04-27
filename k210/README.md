@@ -6,3 +6,7 @@ tem a menor latencia e boa vazao.
 [Exemplo simples de um classificador de tres classes com self-learning](https://github.com/sipeed/MaixPy_scripts/blob/master/machine_vision/doc/self_learning_classifier.md)  com [Video](https://www.youtube.com/watch?v=aLW1YQrT-2A)
 
 [Ambiente para AI com k210 aXeleRate Keras-based](https://www.youtube.com/watch?v=8lp_45duWmM)
+
+
+[Artigo de avaliacao](https://work.delaat.net/rp/2019-2020/p49/report.pdf)
+
