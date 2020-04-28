@@ -10,3 +10,6 @@ tem a menor latencia e boa vazao.
 
 [Artigo de avaliacao](https://work.delaat.net/rp/2019-2020/p49/report.pdf)
 
+
+[Reconhecimento de Palavras](https://github.com/sipeed/MaixPy_scripts/blob/master/multimedia/speech_recognizer/speech_recognizer.py)
+
