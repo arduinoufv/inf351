@@ -4,6 +4,8 @@
 
 [Get Started](https://www.youtube.com/watch?v=xPlN_Tk3VLQ)
 
+[ESP32 Secrets: Interrupts, and Deep-Sleep under the Hood - Video](https://www.youtube.com/watch?v=CJhWlfkf-5M&feature=youtu.be)
+
 [GP IO](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
 
 [Send Email NodeMcu](https://github.com/G6EJD/ESP8266-Sending-Emails/blob/master/ESP8366_Send_eMail_YT.ino)
