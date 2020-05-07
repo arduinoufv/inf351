@@ -8,6 +8,8 @@
 
 [GP IO](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
 
+[GPIO ESP32](https://fasani.de/2020/05/06/arduino-esp32-course-general-purpose-input-output-gpio-chapter-3/)
+
 [Send Email NodeMcu](https://github.com/G6EJD/ESP8266-Sending-Emails/blob/master/ESP8366_Send_eMail_YT.ino)
 
 [Videos Portuguese](https://www.curtocircuito.com.br/blog/?page=2)
