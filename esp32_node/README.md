@@ -26,6 +26,7 @@
 [Graphics Outputs Video]
 (https://www.youtube.com/watch?v=1TGuw-cSR_I&feature=youtu.be)
 
+
 [Multiple Display](https://www.youtube.com/watch?v=WL8Xs5D2VUA&feature=youtu.be)
 
 [Webserver]
@@ -53,4 +54,7 @@ Tutorial 2 - Low power Deep Sleep
 Projeto  1 - Leitura dos sensores capacitivos com entrada para OpenLedRace
 
 
+# Avancado
+
+[Debug com Cabo Jtag e Platform I/O ESP32](https://www.youtube.com/watch?time_continue=57&v=TivyIFF-dzw&feature=emb_logo)
 
