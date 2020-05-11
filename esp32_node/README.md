@@ -6,6 +6,9 @@
 
 [ESP32 Secrets: Interrupts, and Deep-Sleep under the Hood - Video](https://www.youtube.com/watch?v=CJhWlfkf-5M&feature=youtu.be)
 
+# Technical Information
+[Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+
 [GP IO](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
 
 [GPIO ESP32](https://fasani.de/2020/05/06/arduino-esp32-course-general-purpose-input-output-gpio-chapter-3/)
