@@ -13,3 +13,6 @@ tem a menor latencia e boa vazao.
 
 [Reconhecimento de Palavras](https://github.com/sipeed/MaixPy_scripts/blob/master/multimedia/speech_recognizer/speech_recognizer.py)
 
+# placas
+
+[Maixcube all-in-one](https://www.seeedstudio.com/Sipeed-Maix-Cube-p-4553.html)
