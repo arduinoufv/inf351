@@ -1,3 +1,13 @@
+# NodeMCU
+
+[Introducao ao NodeMCU com IDE do Arduino](https://www.robocore.net/tutoriais/como-programar-nodemcu-arduino-ide): Sugestao usar o D2 (pino) que ja tem o led da placa, caso voce nao tenha protoboard.
+
+[Video de Introducao ao NodeMCU com Arduino IDE](https://www.youtube.com/watch?v=URtIbITbGbU)
+
+
+# ESP32
+
+
 [Novo ESP32-S2 com Risc-V coprocessador](https://hackaday.com/2020/03/23/esp32-s2-samples-show-up/)
 
 [Youtube Channel Technical Nodes](https://www.youtube.com/user/G6EJD/videos)
