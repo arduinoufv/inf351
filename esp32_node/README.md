@@ -16,6 +16,8 @@
 
 [ESP32 Secrets: Interrupts, and Deep-Sleep under the Hood - Video](https://www.youtube.com/watch?v=CJhWlfkf-5M&feature=youtu.be)
 
+[Integração do ESP32 com IoT, Mqt, etc...](https://www.survivingwithandroid.com/esp32-projects/)
+
 # Technical Information
 [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
 
