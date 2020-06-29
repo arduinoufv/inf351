@@ -1,5 +1,7 @@
 [Specs](https://github.com/raphaelbs/esp32-cam-ai-thinker/blob/master/assets/ESP32-CAM_Product_Specification.pdf)
 
+[EspCam e TensorFlow](https://www.survivingwithandroid.com/esp32-cam-tensorflow-js/)
+
 [Demo em portugues com código](https://www.youtube.com/watch?v=MGPL10N9YmM)
 
 [Carro com controle Remoto](https://www.youtube.com/watch?v=BwsH1kLxDmQ&feature=youtu.be)  --- [Blog version here:] (https://robotzero.one/esp32-cam-rc-car/)
