@@ -15,4 +15,6 @@ tem a menor latencia e boa vazao.
 
 # placas
 
-[Maixcube all-in-one](https://www.seeedstudio.com/Sipeed-Maix-Cube-p-4553.html)   [outro link](https://www.cnx-software.com/2020/04/21/sipeed-maixcube-is-a-fully-integrated-ai-development-platform-powered-by-kendryte-k210-risc-v-soc/)https://www.cnx-software.com/2020/04/21/sipeed-maixcube-is-a-fully-integrated-ai-development-platform-powered-by-kendryte-k210-risc-v-soc/
+* [Maix Amigo](https://www.cnx-software.com/2020/08/24/sipeed-maix-amigo-portable-64-bit-risc-v-ai-development-kit-display-cameras/)
+* [Maixcube all-in-one](https://www.seeedstudio.com/Sipeed-Maix-Cube-p-4553.html)   
+* [outro link](https://www.cnx-software.com/2020/04/21/sipeed-maixcube-is-a-fully-integrated-ai-development-platform-powered-by-kendryte-k210-risc-v-soc/)https://www.cnx-software.com/2020/04/21/sipeed-maixcube-is-a-fully-integrated-ai-development-platform-powered-by-kendryte-k210-risc-v-soc/
