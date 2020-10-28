@@ -1,4 +1,4 @@
-Projetos da Disciplina INF351 - Sistemas Embarcados
+Embedded System project and links - Projetos  Sistemas Embarcados
 
 
 [Video com demos: Dragon Eyes - Olho de Dragão com movimento em Display TFT, Oled, etc....](https://www.youtube.com/watch?v=90uBrj6BykY)
