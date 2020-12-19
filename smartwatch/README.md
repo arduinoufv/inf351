@@ -8,4 +8,5 @@
 * [Exemplo de jogo StarWars com Arduino IDE](https://www.youtube.com/watch?v=DP5gR2EsZqI) [github](https://github.com/VolosR/SpaceWarsTTWatch2020)
 * [TicTacToe game:](https://github.com/VolosR/TicTacToiTTGOWatch)
 * [Calendario e Calculadora](https://www.youtube.com/watch?v=o83lEuvzWo0)
+* [A smartwatch based on ESP32 from LilyGo. Currently under development.](https://github.com/sharandac/My-TTGO-Watch)
 
