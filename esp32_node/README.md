@@ -5,6 +5,8 @@
 [Video de Introducao ao NodeMCU com Arduino IDE](https://www.youtube.com/watch?v=URtIbITbGbU)
 
 
+# [ESP32 s3 AIot - click here](https://www.espressif.com/en/news/ESP32_S3)
+
 # ESP32
 
 
