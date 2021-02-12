@@ -1,3 +1,7 @@
+# lcd draw characteres
+
+[animations](https://create.arduino.cc/projecthub/tusindfryd/create-custom-animations-on-16x2-lcd-displays-025fb6)
+
 # Shield com LCD e teclado
 ```
 #include <LiquidCrystal.h> //INCLUSÃO DE BIBLIOTECA
