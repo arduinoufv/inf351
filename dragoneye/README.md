@@ -10,6 +10,8 @@
 * [video](https://www.youtube.com/watch?v=crMSpkif-k4&feature=emb_rel_pause)
 
 * [video two eyes small oled](https://www.youtube.com/watch?v=n3Fj2zCOv98)
+* [video esp32](https://www.youtube.com/watch?v=IWmCF2b6fyw)
+*
 
 # Projetos
 * Adaptar o Dragon Eyes para o Display TFT de 1.8″ tem resolução de 160×128 (ST7735). 
