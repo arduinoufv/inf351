@@ -1,6 +1,7 @@
 # lcd draw characteres
 
 [animations](https://create.arduino.cc/projecthub/tusindfryd/create-custom-animations-on-16x2-lcd-displays-025fb6)
+[dog](https://create.arduino.cc/projecthub/milespeterson101/an-lcd-dog-friend-updated-b0bdee)
 
 # Shield com LCD e teclado
 ```
