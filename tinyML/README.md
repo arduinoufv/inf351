@@ -9,3 +9,4 @@
 [TfTrackpad: AI-powered, programmable DIY trackpad](https://eloquentarduino.github.io/2021/07/tftrackpad-ai-powered-programmable-diy-trackpad/)
 
 [Meet your new table tennis coach, a tinyML-powered paddle!](https://blog.arduino.cc/2021/07/23/meet-your-new-table-tennis-coach-a-tinyml-powered-paddle/)
+ 
