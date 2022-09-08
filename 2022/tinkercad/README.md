@@ -1,4 +1,6 @@
 
+[Playlist de Video com explicações dos trabalhos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ndBJroa2ntrAHbdzV45R70)
+
 # Tarefa 1
 
 * Arduino Uno
