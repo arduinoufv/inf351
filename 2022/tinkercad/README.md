@@ -26,7 +26,7 @@
 - Montagem Tinkercad
 **problema** Acender os leds em sequencia vermelho, apaga, amarelo, apaga, ...
 
-## Larissa e Aysson
+## Larissa e Alysson
 
 - Montagem Tinkercad
 **problema** Acender os leds preenche vermelho, depois vermelho e amarelo, até todos acenderem e depois apagar em sequencia também
@@ -43,7 +43,7 @@
 **problema** Sinal de transito sem a função Delay com a função millis
 
 
-## Guilherme Jose e Diego
+## Nicholas e Jean
 
 - Montagem Tinkercad
 **problema** Sinal de transito sem a função Delay com a função millis, igual a sinal de pedestre que só irá alternar se apertar a chave (como se chega-se um pedestre).
