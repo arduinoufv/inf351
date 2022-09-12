@@ -1,7 +1,10 @@
 
 [Playlist de Video com explicações dos trabalhos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ndBJroa2ntrAHbdzV45R70)
 
+
 # Tarefa 1
+
+[link para envio da tarefa](https://forms.gle/GXUSFzQG3ZHTEa5R9)
 
 * Arduino Uno
 * 6 leds (2 vermelhos, 2 verdes, 2 amarelos)
