@@ -35,8 +35,7 @@
 
 ## Lucas MOELLER e Michael
 
-- Montagem Tinkercad
-**problema** Piscar os leds em sequencia, primeiro vermelho, depois amarelo, de 0.5 em 0.5 segundo
+**problema** [Piscar os leds em sequencia, primeiro vermelho, depois amarelo, de 0.5 em 0.5 segundo](https://www.tinkercad.com/things/gzECKLgOArQ-inf351-primeira-tarefa)
 
 
 ## Guilherme Jose e Diego
