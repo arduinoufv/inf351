@@ -19,7 +19,9 @@
 ## Lucas Santos e Petterson
 
 - Montagem Tinkercad
-**problema** dois sinais de trânsito alternando, tempo 5 segundos vermelho e 2 segundos para amarelo.
+**problema** [dois sinais de trânsito alternando, tempo 5 segundos vermelho e 2 segundos para amarelo](https://www.tinkercad.com/things/25nI7fnTsYg-sinal-de-transito-com-delay-inf-351/editel?sharecode=p_rxSi2PIf965DznFXKPa0_xyB7MiZIHnVmk7KFTJlA)
+
+
 
 ## Pedro e Lais
 - Montagem Tinkercad
@@ -44,7 +46,8 @@
 ## Guilherme Jose e Diego
 
 - Montagem Tinkercad
-**problema** Sinal de transito sem a função Delay com a função millis
+**problema** [Sinal de transito sem a função Delay com a função millis](https://www.tinkercad.com/things/cMV7qoWLB6w?sharecode=GMyMtfqJuqM8izTzzCqxnW4KhHoAcUk-9TMs5jI2AHw)
+
 
 
 ## Nicholas e Jean
