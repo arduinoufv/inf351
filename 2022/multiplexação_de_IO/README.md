@@ -6,3 +6,7 @@ for driving a multiplexed display in which relatively few I/O pins on a microcon
 # Teclado linha coluna
 
 ![](https://tuxbotix.files.wordpress.com/2015/12/sch_keyboard.gif)
+
+# Led Cube 3x3
+
+![](https://solderingmind.com/wp-content/uploads/2020/05/led-cube-arduino-circuit-diagram-182x300.jpeg)
