@@ -19,9 +19,9 @@ IoT](http://www2.sbc.org.br/ceacpad/ijcae/v6_n1_dec_2017/IJCAE_v6_n1_dez_2017_pa
 
 ## Blog Circuito
 
-[Tutorial Node-Red para ESP32](https://curtocircuito.com.br/blog/esp32/esp32:-node-red-editor-de-fluxo-on-line)
-[Estação Meteorológica com ESP32 e NODE-Red](https://curtocircuito.com.br/blog/esp32/estacao-meteorologica-esp32-node-red)
-[Análise de sensores ligados ao ESP32 com Node-RED](https://curtocircuito.com.br/blog/esp32/analise-de-sensores-node-red-esp32)
+* [Tutorial Node-Red para ESP32](https://curtocircuito.com.br/blog/esp32/esp32:-node-red-editor-de-fluxo-on-line)
+* [Estação Meteorológica com ESP32 e NODE-Red](https://curtocircuito.com.br/blog/esp32/estacao-meteorologica-esp32-node-red)
+* [Análise de sensores ligados ao ESP32 com Node-RED](https://curtocircuito.com.br/blog/esp32/analise-de-sensores-node-red-esp32)
 
 
 ### Tarefas
