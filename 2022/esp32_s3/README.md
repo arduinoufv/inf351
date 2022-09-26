@@ -16,7 +16,7 @@ ESP32-S3-DevKitC-1 ESP32-S3 ![](https://www.google.com/url?sa=i&url=https%3A%2F%
 
 [doc](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html)
 
-![](http://152.32.187.208:8080/yd-data/YD-ESP32-S3/5-public-YD-ESP32-S3-Hardware%20info/S3-V1.2%20(14).PNG)
+![](http://152.32.187.208:8080/yd-data/YD-ESP32-S3/5-public-YD-ESP32-S3-Hardware%20info/ESP32-S3-0702%20(9).PNG)
 
 Placa **Adafruit Feather ESP32-S3 2M PSRAM**
 
