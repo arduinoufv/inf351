@@ -1,5 +1,9 @@
 **M5stickC**
 
+Instalar no Preferences adicionar **https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json**
+depois e no board manager e board manager e instalar m5stack
+
+
 # Links
 
 [projects hacker io](https://m5stack.hackster.io/)
