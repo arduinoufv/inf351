@@ -1,3 +1,6 @@
+# instalação
+
+[dicas](https://www.instructables.com/Lilygo-T-Watch-2020-Arduino-Framework/)
 
 # Projetos
 
