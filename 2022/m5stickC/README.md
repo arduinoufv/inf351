@@ -1,7 +1,7 @@
 **M5stickC**
 
-Instalar no Preferences adicionar **https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json**
-depois e no board manager e board manager e instalar m5stack
+Instalar no Preferences adicionar **https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json**
+depois e no board manager e board manager e instalar esp32
 
 
 # Links
