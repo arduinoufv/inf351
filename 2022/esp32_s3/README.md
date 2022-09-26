@@ -22,3 +22,9 @@ Placa **Adafruit Feather ESP32-S3 2M PSRAM**
 
 modificado para Adafruit_NeoPixel pixels(NUMPIXELS, 48, NEO_GRB + NEO_KHZ800);    pisca led RGB
 
+# Redes Neurais e Convolucionais
+
+[github](https://github.com/espressif/tflite-micro-esp-examples)
+
+# Bluetooth 5.0 ?
+
