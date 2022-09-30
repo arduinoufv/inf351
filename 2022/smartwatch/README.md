@@ -20,3 +20,5 @@
 * Conexao com internet com menu (que procura a rede)
 * Contador de passos e corrida
 * Adaptar jogos
+
+[keyboard and mouse](https://github.com/n1rml/esp32_airmouse)
