@@ -5,7 +5,7 @@
 1. [Codigo Base do Tetris com MQTT](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/tetris12x12mqtt.ino)
 2. [Exemplos de vários efeitos](https://github.com/cacauvicosa/inf351_2019/tree/master/mesaleds)
 3. [Trabalhos de 2019: jogo de tiro, simulador da mesa,snake](https://github.com/cacauvicosa/inf351_2019/tree/master/trabalhos/t3)
-4. [Baixar o simulador]() e ler as instruções [aqui](https://github.com/cacauvicosa/inf351_2019/tree/master/trabalhos/t3/Arthur/simulador)
+4. [Baixar o simulador](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/Simulador_Arthur_mesa.zip) e ler as instruções [aqui](https://github.com/cacauvicosa/inf351_2019/tree/master/trabalhos/t3/Arthur/simulador)
 
 
 ## Tarefas - cada aluno deve fazer pelo menos uma
