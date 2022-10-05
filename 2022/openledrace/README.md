@@ -4,6 +4,7 @@
 [Codigo Original](https://github.com/gbarbarov/led-race)
 
 [Exemplo com um carrinho com efeito do fogo](https://github.com/cacauvicosa/openledrace/tree/master/led_race_fire) mais o [video](https://www.youtube.com/watch?v=Rl4G2aO0dno)
+* botões estão no D2 e D1 do Esp8266 e a fita de led no D3.
 
 
 [código base com MQTT]()
