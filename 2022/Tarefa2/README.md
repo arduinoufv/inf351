@@ -2,7 +2,30 @@
 
 ## Exemplos
 
-1. [Codigo Base do Tetris com MQTT]()
+1. [Codigo Base do Tetris com MQTT](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/tetris12x12mqtt.ino)
+
+
+## Tarefas - cada aluno deve fazer pelo menos uma
+
+1. Jogo resta-um
+2. Snake
+3. Smart-Game penguim
+4. Smart-Game titanic
+5. Smart-game I
+6. Smart-game II
+7. Jogo XXX ----- XXX
+8. Desenhando com M5stickC e MQTT
+9. Desenhando com HTTP servidor
+10. Desenhando com Python e Turtle
+11. Corrida de led
+12. Mensagens de Texto
+13. Mix de vários efeitos
+14. Jogando com NodeRed UFV
+15. Jogando com HTTP servidor
+16. Dama
+17. Xadrez
+18. 8 rainhas do Xadrez
+19. Percorrer o tabuleiro com Cavalo no Xadrez
 
 
 
