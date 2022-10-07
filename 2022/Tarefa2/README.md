@@ -29,6 +29,8 @@
 17. Xadrez
 18. 8 rainhas do Xadrez
 19. Percorrer o tabuleiro com Cavalo no Xadrez
+20. Pong
+21. Jogos de Atari 
 
 
 
