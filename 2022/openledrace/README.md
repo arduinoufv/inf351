@@ -12,9 +12,9 @@
 
 [código base com MQTT](https://github.com/cacauvicosa/openledrace/blob/master/led_race_mqtt_speed/led_race_mqtt_speed.ino)
 
-     * [How to create the MQTT control button for Dual Track](https://www.youtube.com/watch?v=Ag7PvNm-0Yc&t=18s)
-
-     * [How to create feedback for Speed (gauge/line graphic)](https://www.youtube.com/watch?v=pTobk1r-fdk)
+[How to create the MQTT control button for Dual Track](https://www.youtube.com/watch?v=Ag7PvNm-0Yc&t=18s)
+     
+[How to create feedback for Speed (gauge/line graphic)](https://www.youtube.com/watch?v=pTobk1r-fdk)
 
 # Opções para Tarefa com OpenLedRace
 
