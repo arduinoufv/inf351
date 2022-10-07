@@ -10,8 +10,11 @@
 [Código com duas trilhas](https://github.com/arduinoufv/inf351/blob/master/2022/openledrace/dual_track.ino)
 * botões estão no D2,D6 (swap) e D1,D5 (swap) do Esp8266 e a fita de led no D3.
 
-[código base com MQTT]()
+[código base com MQTT](https://github.com/cacauvicosa/openledrace/blob/master/led_race_mqtt_speed/led_race_mqtt_speed.ino)
 
+     * [How to create the MQTT control button for Dual Track](https://www.youtube.com/watch?v=Ag7PvNm-0Yc&t=18s)
+
+     * [How to create feedback for Speed (gauge/line graphic)](https://www.youtube.com/watch?v=pTobk1r-fdk)
 
 # Opções para Tarefa com OpenLedRace
 
