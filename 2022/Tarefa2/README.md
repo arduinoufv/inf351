@@ -31,6 +31,7 @@
 19. Percorrer o tabuleiro com Cavalo no Xadrez
 20. Pong
 21. Jogos de Atari 
+22. PacMan
 
 
 
