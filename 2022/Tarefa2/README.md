@@ -32,9 +32,10 @@
 19. 8 rainhas do Xadrez
 20. Percorrer o tabuleiro com Cavalo no Xadrez
 21. Pong
-22. Jogos de Atari 
-23. PacMan
-24.  **Thales jogo da memória com o controle Bluetooth** 
+22. Jogos de Atari ![](https://production-media.paperswithcode.com/thumbnails/task/task-0000000900-b86ba7ff.jpg)
+23. PacMan Efeitos ![](https://hackster.imgix.net/uploads/attachments/376313/halloween2017_OhXDcgCsGc.gif?auto=compress&gifq=35&w=900&h=675&fit=min&fm=mp4)
+24. PacMan Jogos
+25.  **Thales jogo da memória com o controle Bluetooth** 
 
 
 
