@@ -17,13 +17,13 @@
 3. Smart-Game penguim
 4. Smart-Game titanic
 5. Smart-game I: 2D com 11x5 tabuleiro - ![](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/Screenshot%20from%202022-10-07%2014-20-30.png?raw=true)
-6. Smart-game II
+6. Smart-game II: 2D com "2 níveis" - ![](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/Screenshot%20from%202022-10-07%2014-19-27.png?raw=true)
 7. [Jogo XXX ----- XXX](https://excalidraw.com/#json=5cX15uyz0CgsgJlB_BlzJ,Q9f-21f8RC4HnP3YjOp8NA)
 8. Desenhando com M5stickC e MQTT
 9. Desenhando com HTTP servidor
 10. Desenhando com Python e Turtle
 11. Corrida de led
-12. Mensagens de Texto
+12. Mensagens de Texto tipo banner 
 13. Mix de vários efeitos
 14. Jogando com NodeRed UFV
 15. Jogando com HTTP servidor
