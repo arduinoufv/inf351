@@ -34,6 +34,7 @@
 20. Pong
 21. Jogos de Atari 
 22. PacMan
+23.  **Thales jogo da memória com o controle Bluetooth** 
 
 
 
