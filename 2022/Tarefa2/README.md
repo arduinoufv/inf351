@@ -6,7 +6,8 @@
 2. [Exemplos de vários efeitos](https://github.com/cacauvicosa/inf351_2019/tree/master/mesaleds)
 3. [Trabalhos de 2019: jogo de tiro, simulador da mesa,snake](https://github.com/cacauvicosa/inf351_2019/tree/master/trabalhos/t3)
 4. [Baixar o simulador](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/Simulador_Arthur_mesa.zip) e ler as instruções [aqui](https://github.com/cacauvicosa/inf351_2019/tree/master/trabalhos/t3/Arthur/simulador)
-
+5. [Aqui tem vários jogos com iteração com Celular 16x16](https://github.com/vvip-68/GyverMatrixWiFi/tree/master/firmware/GyverMatrixOS_v1.15) e [demo em video](https://www.hackster.io/mircemk/how-to-control-16x16-ws2812-led-matrix-with-smartphone-c073fb)
+6. 
 
 ## Tarefas - cada aluno deve fazer pelo menos uma - Prazo 24/10/22
 
@@ -33,9 +34,11 @@
 20. Percorrer o tabuleiro com Cavalo no Xadrez
 21. Pong
 22. Jogos de Atari ![](https://production-media.paperswithcode.com/thumbnails/task/task-0000000900-b86ba7ff.jpg)
-23. PacMan Efeitos ![](https://hackster.imgix.net/uploads/attachments/376313/halloween2017_OhXDcgCsGc.gif?auto=compress&gifq=35&w=900&h=675&fit=min&fm=mp4)
-24. PacMan Jogos
-25.  **Thales jogo da memória com o controle Bluetooth** 
+23. [PacMan Efeitos](https://youtu.be/veKGdG0BZMw)
+24. PacMan Jogo
+25. Space Invaders
+26. [Flappy Bird](https://www.hackster.io/gatoninja236/playing-flappy-bird-on-an-led-matrix-d1a1c9)
+27.  **Thales jogo da memória com o controle Bluetooth** 
 
 
 
