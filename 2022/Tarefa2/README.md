@@ -18,7 +18,7 @@
 4. Smart-Game titanic
 5. Smart-game I
 6. Smart-game II
-7. Jogo XXX ----- XXX
+7. [Jogo XXX ----- XXX](https://excalidraw.com/#json=5cX15uyz0CgsgJlB_BlzJ,Q9f-21f8RC4HnP3YjOp8NA)
 8. Desenhando com M5stickC e MQTT
 9. Desenhando com HTTP servidor
 10. Desenhando com Python e Turtle
