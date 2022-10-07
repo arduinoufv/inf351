@@ -8,7 +8,9 @@
 4. [Baixar o simulador](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/Simulador_Arthur_mesa.zip) e ler as instruções [aqui](https://github.com/cacauvicosa/inf351_2019/tree/master/trabalhos/t3/Arthur/simulador)
 
 
-## Tarefas - cada aluno deve fazer pelo menos uma
+## Tarefas - cada aluno deve fazer pelo menos uma - Prazo 24/10/22
+
+[vídeo explicando a Tarefa](https://youtu.be/zXOHD-Yaw5Y)
 
 1. Jogo resta-um
 2. Snake
