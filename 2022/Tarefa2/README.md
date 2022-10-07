@@ -14,27 +14,27 @@
 
 1. Jogo resta-um [desenho](https://excalidraw.com/#json=RucuUw7RY4xauHTp9IoR5,zuLtP0biFZw1YVcZ-0k3Xw)
 2. Snake
-3. Smart-Game penguim
-4. [Smart-Game titanic](https://apkcombo.com/titanic-by-smartgames/com.smartgameslive.titanichd/) ![](https://play-lh.googleusercontent.com/l4Rh-7PChwk2V2rG8Dxi7tfJlNHYp6MDV7IM1UjWPGhXBKcNXOTXr76OdSDsNCrQS50=w1024-h768-rw)
-5. Smart-game I: 2D com 11x5 tabuleiro - ![](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/Screenshot%20from%202022-10-07%2014-20-30.png?raw=true)
-6. Smart-game II: 2D com "2 níveis" - ![](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/Screenshot%20from%202022-10-07%2014-19-27.png?raw=true)
-7. [Jogo XXX ----- XXX](https://excalidraw.com/#json=5cX15uyz0CgsgJlB_BlzJ,Q9f-21f8RC4HnP3YjOp8NA)
-8. Desenhando com M5stickC e MQTT
-9. Desenhando com HTTP servidor
-10. Desenhando com Python e Turtle
-11. Corrida de led
-12. Mensagens de Texto tipo banner 
-13. Mix de vários efeitos
-14. Jogando com NodeRed UFV
-15. Jogando com HTTP servidor
-16. Dama
-17. Xadrez
-18. 8 rainhas do Xadrez
-19. Percorrer o tabuleiro com Cavalo no Xadrez
-20. Pong
-21. Jogos de Atari 
-22. PacMan
-23.  **Thales jogo da memória com o controle Bluetooth** 
+3. Smart-Game penguim  ![](https://m.media-amazon.com/images/I/61fufDv6sOL.jpg)
+5. [Smart-Game titanic](https://apkcombo.com/titanic-by-smartgames/com.smartgameslive.titanichd/) ![](https://play-lh.googleusercontent.com/l4Rh-7PChwk2V2rG8Dxi7tfJlNHYp6MDV7IM1UjWPGhXBKcNXOTXr76OdSDsNCrQS50=w1024-h768-rw)
+6. Smart-game I: 2D com 11x5 tabuleiro - ![](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/Screenshot%20from%202022-10-07%2014-20-30.png?raw=true)
+7. Smart-game II: 2D com "2 níveis" - ![](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/Screenshot%20from%202022-10-07%2014-19-27.png?raw=true)
+8. [Jogo XXX ----- XXX](https://excalidraw.com/#json=5cX15uyz0CgsgJlB_BlzJ,Q9f-21f8RC4HnP3YjOp8NA)
+9. Desenhando com M5stickC e MQTT
+10. Desenhando com HTTP servidor
+11. Desenhando com Python e Turtle
+12. Corrida de led
+13. Mensagens de Texto tipo banner 
+14. Mix de vários efeitos
+15. Jogando com NodeRed UFV
+16. Jogando com HTTP servidor
+17. Dama
+18. Xadrez
+19. 8 rainhas do Xadrez
+20. Percorrer o tabuleiro com Cavalo no Xadrez
+21. Pong
+22. Jogos de Atari 
+23. PacMan
+24.  **Thales jogo da memória com o controle Bluetooth** 
 
 
 
