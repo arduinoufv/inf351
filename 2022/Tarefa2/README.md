@@ -12,7 +12,7 @@
 
 [vídeo explicando a Tarefa](https://youtu.be/zXOHD-Yaw5Y)
 
-1. Jogo resta-um
+1. Jogo resta-um [desenho](https://excalidraw.com/#json=RucuUw7RY4xauHTp9IoR5,zuLtP0biFZw1YVcZ-0k3Xw)
 2. Snake
 3. Smart-Game penguim
 4. Smart-Game titanic
