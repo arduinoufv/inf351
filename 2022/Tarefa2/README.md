@@ -30,13 +30,13 @@
 16. Jogando com HTTP servidor
 17. Dama
 18. Xadrez
-19. 8 rainhas do Xadrez
-20. Percorrer o tabuleiro com Cavalo no Xadrez
-21. Pong
+19. [8 rainhas do Xadrez](https://upload.wikimedia.org/wikipedia/commons/1/1f/Eight-queens-animation.gif?20070625172331)
+20. [Percorrer o tabuleiro com Cavalo no Xadrez](https://upload.wikimedia.org/wikipedia/commons/c/ca/Knights-Tour-Animation.gif)
+21. [Pong](https://media3.giphy.com/media/aTGwuEFyg6d8c/giphy.gif)
 22. Jogos de Atari ![](https://production-media.paperswithcode.com/thumbnails/task/task-0000000900-b86ba7ff.jpg)
 23. [PacMan Efeitos](https://youtu.be/veKGdG0BZMw)
-24. PacMan Jogo
-25. Space Invaders
+24. [PacMan](https://media.tenor.com/uVZUsEolHw4AAAAd/pacman.gif)
+25. [Space Invaders](https://cdn.dribbble.com/users/1035257/screenshots/4835179/2.gif)
 26. [Flappy Bird](https://www.hackster.io/gatoninja236/playing-flappy-bird-on-an-led-matrix-d1a1c9)
 27.  **Thales jogo da memória com o controle Bluetooth** 
 
