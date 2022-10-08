@@ -1,3 +1,8 @@
+# Para documentar seus projetos
+
+* [figuras no formato SVG](https://github.com/usini/diagrams)
+* 
+
 # 0. [Tinkercad](https://github.com/arduinoufv/inf351/tree/master/2022/tinkercad)
 
 # 1. [Tutorial introdutório](https://github.com/arduinoufv/inf351/tree/master/2022/Trabalhos_dos_alunos)
