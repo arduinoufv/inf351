@@ -15,5 +15,9 @@
 
 # 5. [Knn](https://github.com/arduinoufv/inf351/tree/master/2022/knn)
 
+# 6. [Esp MESH]()
+
+# 7. [M5stickC]()
+
 
 
