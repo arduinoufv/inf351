@@ -2,7 +2,7 @@
 
 1. [snake]()
 2. [fazer movimentos de olhos]()
-3. [Acompanhar com o movimento de olhos, um motor e sensor Lidar]
+3. [Acompanhar com o movimento de olhos, um motor e sensor Lidar]() Aqui tem exemplos de [uso do Lidar](https://www.usinainfo.com.br/blog/projeto-com-sensor-de-distancia-vl53l0x-e-arduino-para-alta-precisao/)
 4. 
 
 # lcd draw characteres
