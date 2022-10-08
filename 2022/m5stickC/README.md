@@ -10,6 +10,8 @@ depois e no board manager e board manager e instalar esp32
 
 # Links
 
+[videos com vários projetos](https://github.com/arduinoufv/inf351/tree/master/m5stickc)
+
 [projects hacker io](https://m5stack.hackster.io/)
 
 
