@@ -8,5 +8,7 @@
 
 # 4. [Esp32, oled e Lora](https://github.com/arduinoufv/inf351/tree/master/2022/4_lora_esp32_oled)
 
-# 5. [Knn]
+# 5. [Knn](https://github.com/arduinoufv/inf351/tree/master/2022/knn)
+
+
 
