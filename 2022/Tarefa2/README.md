@@ -7,7 +7,11 @@
 3. [Trabalhos de 2019: jogo de tiro, simulador da mesa,snake](https://github.com/cacauvicosa/inf351_2019/tree/master/trabalhos/t3)
 4. [Baixar o simulador](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/Simulador_Arthur_mesa.zip) e ler as instruções [aqui](https://github.com/cacauvicosa/inf351_2019/tree/master/trabalhos/t3/Arthur/simulador)
 5. [Aqui tem vários jogos com iteração com Celular 16x16](https://github.com/vvip-68/GyverMatrixWiFi/tree/master/firmware/GyverMatrixOS_v1.15) e [demo em video](https://www.hackster.io/mircemk/how-to-control-16x16-ws2812-led-matrix-with-smartphone-c073fb)
-6. 
+6. [Projetos com uma mesa de led 12x12](https://sites.google.com/site/klaasdc/led-table)
+7. [mais projetos com mesa](https://create.arduino.cc/projecthub/AntoineKia/interactive-led-table-for-50-650b83)
+8. [efeitos com rotação que podem ser adaptados para mesa](https://www.youtube.com/watch?v=4kS7iEOgXOA)
+9. [How to use Excel to Animate LEDs! Arduino + WS2812 LEDs](https://www.youtube.com/watch?v=A_S3LAUQHwU&t=65s)
+10. [Ferramenta para gerar códigos para 10x10](https://www.youtube.com/watch?v=o6_UYb6I4x4)
 
 ## Tarefas - cada aluno deve fazer pelo menos uma - Prazo 24/10/22
 
