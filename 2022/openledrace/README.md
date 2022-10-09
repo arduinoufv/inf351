@@ -44,5 +44,7 @@
 13. Versão com efeito de agua [este video com fastled e git](https://www.youtube.com/watch?v=ydqEkpHzb54)
 14. [DIY Arduino 1D Pong game with WS2812 Led strip](https://www.youtube.com/watch?v=14-b0aKh2IM)
 15. Cabo de guerra
-16. 
+16. [Usar sensores de toque do esp32](https://github.com/gmag11/painlessMesh)
+17. [Usar redes mesh ou painless](https://github.com/gmag11/painlessMesh)
+18. 
 
