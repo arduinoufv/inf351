@@ -22,6 +22,9 @@
 * [explicacoes](https://www.youtube.com/watch?v=IIl5nDjfkjY&t=22s)
 * [06-Comet Effect - LED Strip ](https://www.youtube.com/watch?v=yM5dY7K2KHM)
 * [efeito gota caindo](https://www.youtube.com/watch?v=_wkTtAk2V_k)
+* [barra leds e musica que pode adaptar para um jogo](https://www.youtube.com/watch?v=PEHS8Uw_MxM)
+* [efeitos com 3 barras que pode adaptar para 2 pistas](https://www.youtube.com/watch?v=2FXs1arWMrE)
+* [Mais efeitos](https://www.youtube.com/watch?v=HNtM7jH5GXg)
 
 
 # Opções para Tarefa com OpenLedRace
