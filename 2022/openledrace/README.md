@@ -16,6 +16,14 @@
      
 [How to create feedback for Speed (gauge/line graphic)](https://www.youtube.com/watch?v=pTobk1r-fdk)
 
+## Efeitos
+
+* [10 efeitos com led](https://www.youtube.com/watch?v=seG5tip6wBw&t=2s)
+* [explicacoes](https://www.youtube.com/watch?v=IIl5nDjfkjY&t=22s)
+* [06-Comet Effect - LED Strip ](https://www.youtube.com/watch?v=yM5dY7K2KHM)
+* [efeito gota caindo](https://www.youtube.com/watch?v=_wkTtAk2V_k)
+
+
 # Opções para Tarefa com OpenLedRace
 
 1. Correção do bloqueio de ultrapassagem na versão 2 trilhas
@@ -31,4 +39,7 @@
 11. Versao com servidor HTTP e pagina WEB 
 12. Versao que permitir incluir várias jogos e faz a seleção qual tipo de corrida será
 13. Versão com efeito de agua [este video com fastled e git](https://www.youtube.com/watch?v=ydqEkpHzb54)
+14. [DIY Arduino 1D Pong game with WS2812 Led strip](https://www.youtube.com/watch?v=14-b0aKh2IM)
+15. Cabo de guerra
+16. 
 
