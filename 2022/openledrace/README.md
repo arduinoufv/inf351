@@ -25,6 +25,7 @@
 * [barra leds e musica que pode adaptar para um jogo](https://www.youtube.com/watch?v=PEHS8Uw_MxM)
 * [efeitos com 3 barras que pode adaptar para 2 pistas](https://www.youtube.com/watch?v=2FXs1arWMrE)
 * [Mais efeitos](https://www.youtube.com/watch?v=HNtM7jH5GXg)
+* [Mais efeitos](https://www.youtube.com/watch?v=PHchQdvZqhk)
 
 
 # Opções para Tarefa com OpenLedRace
