@@ -15,11 +15,18 @@
 
 # 5. [Knn](https://github.com/arduinoufv/inf351/tree/master/2022/knn)
 
-# 6. [Esp MESH]()
+# 6. [Esp MESH - em construção]()
 
-# 7. [M5stickC]()
+# 7. [M5stickC](https://github.com/arduinoufv/inf351/tree/master/2022/m5stickC)
 
-# 8. [LCD shield]()
+# 8. [LCD shield](https://github.com/arduinoufv/inf351/tree/master/2022/lcdshield)
 
+# 9. [Micropython](https://github.com/arduinoufv/inf351/tree/master/2022/9_micropython)
+
+# 10. [Sensores](https://github.com/arduinoufv/inf351/tree/master/2022/10_Projetos_com_sensores)
+
+# 11. [Int Artificial com TInyML](https://github.com/arduinoufv/inf351/tree/master/2022/11_tiny_ML)
+
+# 12. [Tema livre proposto pelo aluno]()
 
 
