@@ -40,7 +40,7 @@
 8. Versao 1 trilha com M5stick e MQTT usando o acelerometro do M5 posicionado na canela
 9. Versao 2 trilhas com M5stick e MQTT usando o acelerometro do M5 posicionado na canela
 10. Versao com Python com programação sem fio
-11. Versao com servidor HTTP e pagina WEB 
+11. Versao com servidor HTTP e pagina WEB - [exemplo com controle de efeitos webserver](https://triyonos.com/esp8266-control-animasi-ws2812-addressable-led-strip-via-web-menggunakan-websocket)
 12. Versao que permitir incluir várias jogos e faz a seleção qual tipo de corrida será
 13. Versão com efeito de agua [este video com fastled e git](https://www.youtube.com/watch?v=ydqEkpHzb54)
 14. [DIY Arduino 1D Pong game with WS2812 Led strip](https://www.youtube.com/watch?v=14-b0aKh2IM)
