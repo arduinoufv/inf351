@@ -1,3 +1,8 @@
+# dicas
+
+[How To: Pick the right pins on the NodeMCU ESP8266 and ESP32](https://www.youtube.com/watch?v=7h2bE2vNoaY)
+
+
 # ESP32
 
 [Como usar o Esp32 - Lucas Santos](https://github.com/lucamps/tutoriais-arduino)
