@@ -6,6 +6,8 @@
 * Display Oled 64x32 com SPI
 * tem um botão que pode ser usado no pino 8 com pinMode(8,INPUT_PULLUP)
 
+[desenho](https://excalidraw.com/#json=AhqQa46ThSOb4vhghJ_ta,fkc1L3CLVRXp0092f181LQ)
+
 
 Mostra a distancia no display e no serial mostra a temperatura.
 
