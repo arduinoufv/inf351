@@ -3,7 +3,7 @@
 * [desenho](https://excalidraw.com/#json=TjPmHHEMg_r0rQWZKC3Ci,mKoVmhNtVJZcwLeFRBkWrw)
 * [video com explicacoes](https://youtu.be/fQsFznOFUpM)
 
-tem uma nova [versão com 4 touch aqui]()
+tem uma nova [versão com 4 touch aqui, fios a direita do lidar](https://github.com/arduinoufv/inf351/blob/master/2022/matrix16x16_esp32_lidar_touch/esp32_TouchRead_vl53lx0_ws2812_matrix16x16_com_2_extras_touch5_6.ino)
 
 Abaixo o código para Esp32
 * Usando os touch gp4 e gp15 que são touch0 e touch3, com valores que variam de 0 (tocado) a 70 aberto.
