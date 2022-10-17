@@ -1,5 +1,8 @@
 # Demo com 16x6 leds, esp32, lidar e touch
 
+[desenho](https://excalidraw.com/#json=TjPmHHEMg_r0rQWZKC3Ci,mKoVmhNtVJZcwLeFRBkWrw)
+
+
 Abaixo o código para Esp32
 * Usando os touch gp4 e gp15 que são touch0 e touch3, com valores que variam de 0 (tocado) a 70 aberto.
 * O Lidar pode ficar fora de faixa senao tiver osbtáculo na frente, usa o protocolo SPI para conectar.
