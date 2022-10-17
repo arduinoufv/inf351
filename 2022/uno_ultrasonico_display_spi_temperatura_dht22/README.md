@@ -1,5 +1,7 @@
 # Codigo para uso de sensores e display
 
+* [video](https://youtu.be/mvQmldmJ1Hg)
+
 * Uno
 * Ultrasonico no 12 e 13
 * DHT no pino 2
