@@ -1,4 +1,6 @@
 
+* [video](https://youtu.be/xVMvTJAAfWg)
+
 * ultrasonico no pinos 12 e 13
 * LDR no A2
 * Matrix de LED no 10
