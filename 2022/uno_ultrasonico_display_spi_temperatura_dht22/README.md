@@ -4,6 +4,7 @@
 * Ultrasonico no 12 e 13
 * DHT no pino 2
 * Display Oled 64x32 com SPI
+* tem um botão que pode ser usado no pino 8 com pinMode(8,INPUT_PULLUP)
 
 
 Mostra a distancia no display e no serial mostra a temperatura.
