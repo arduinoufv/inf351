@@ -3,6 +3,8 @@
 * LDR no A2
 * Matrix de LED no 10
 
+[desenho da montagem](https://excalidraw.com/#json=OCN_HcPjqUDWFijSfhjPi,ZiDBZ7BAAxvs7pitaK6LGQ)
+
 A demo movimenta com joystick com a cor verde (se o botão UP pino 2 estiver apertado), para movimentar
 tem que ir e volta na direcao. 
 
