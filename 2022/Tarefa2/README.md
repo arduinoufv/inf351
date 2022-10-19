@@ -1,5 +1,7 @@
 # Mesa de Led 12x12
 
+Mesa de Leds tem 4 botoes conectados em d5,d6,d7 e d1- [codigo teste aqui](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/tetris12x12mqtt_4botoes_sala407.ino)
+
 ## Exemplos
 
 1. [Codigo Base do Tetris com MQTT](https://github.com/arduinoufv/inf351/blob/master/2022/Tarefa2/tetris12x12mqtt.ino)
