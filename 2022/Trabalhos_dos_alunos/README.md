@@ -13,3 +13,5 @@
 
 [Como usar o Esp8266 no Windows com a IDE do Arduino - Alysson Tormen](https://github.com/AlyssonT/sistemas-embarcados)
 
+#LCD Keypad Shield no Arduino Uno
+[Arduino Uno LCD Keypad Shield](https://github.com/Lucas-Mombach/Arduino_LCD_Keypad_Shield-/blob/main/README.md)
