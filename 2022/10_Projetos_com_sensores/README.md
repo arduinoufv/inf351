@@ -2,7 +2,7 @@
 2. [Registradores para ligar várias saidas e entradas](https://www.youtube.com/watch?v=Ys2fu4NINrA)
 3. [Radar com lidar adaptar](https://github.com/easytarget/esp32-cjmcu-531-demo)
 4. [Sensores de luz](https://www.youtube.com/watch?v=r6mof_5w0rU)
-5. [Uso do kit de 37 sensores](https://www.instructables.com/Arduino-37-in-1-Sensors-Kit-Explained/) e tmabém tem um [PDF com a descirção](https://images-eu.ssl-images-amazon.com/images/I/C1lrpIfADaS.pdf): Elaborar projetos que usem dois ou mais sensores no mesmo código, com mais umas das opções abaixo
+5. [Uso do kit de 37 sensores](https://www.instructables.com/Arduino-37-in-1-Sensors-Kit-Explained/) e também tem um [PDF com a descirção](https://images-eu.ssl-images-amazon.com/images/I/C1lrpIfADaS.pdf): Elaborar projetos que usem dois ou mais sensores no mesmo código, com mais umas das opções abaixo
    *  uso do terminal serial para fazer configuração
    * Opção de armazenar os resultados em um arquivo ou vetor
    * Opção de transmissão dos valores com MQTT no esp32 ou NodeMCU
