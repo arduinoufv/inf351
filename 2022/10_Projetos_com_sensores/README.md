@@ -12,3 +12,6 @@
    * Armazenar valores na nuvem do Ubidots
    * Armazenar valores e interação com MQTT e Node-Red
    
+ 6. Sensor de cores
+ 7. Sensor de gestos
+
