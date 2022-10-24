@@ -17,4 +17,6 @@
  8. [Como usar o sensor de som MAX9814](https://curtocircuito.com.br/blog/como-usar-o-max9814)
  9. [VL6180X distance and ambient light sensor library + gestos ](https://www.arduino.cc/reference/en/libraries/vl6180x/)
  10. [flame sensor](https://www.electronicshub.org/arduino-flame-sensor-interface/)
+ 11. [light cup](https://arduinomodules.info/ky-027-magic-light-cup-module/)
+ 12. 
 
