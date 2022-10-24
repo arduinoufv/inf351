@@ -16,4 +16,5 @@
  7. [ Sensor de Batimento Cardíaco e Oxímetro – MAX30100](https://curtocircuito.com.br/blog/Categoria%20Arduino/como-utilizar-o-sensor-de-batimento-cardiaco-e-oximetro-%E2%80%93-max30100)
  8. [Como usar o sensor de som MAX9814](https://curtocircuito.com.br/blog/como-usar-o-max9814)
  9. [VL6180X distance and ambient light sensor library + gestos ](https://www.arduino.cc/reference/en/libraries/vl6180x/)
+ 10. [flame sensor](https://www.electronicshub.org/arduino-flame-sensor-interface/)
 
