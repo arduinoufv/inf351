@@ -18,5 +18,5 @@
  10. [VL6180X distance and ambient light sensor library + gestos ](https://www.arduino.cc/reference/en/libraries/vl6180x/)
  11. [flame sensor](https://www.electronicshub.org/arduino-flame-sensor-interface/)
  12. 2 [light cup](https://arduinomodules.info/ky-027-magic-light-cup-module/)
- 13. 
+ 13. esp32 s3 c3 pino led 8 ![](https://www.electronics-lab.com/wp-content/uploads/2021/08/esp32-c3-devkitm-1-v1-pinout.jpg)
 
