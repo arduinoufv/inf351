@@ -12,11 +12,11 @@
    * Armazenar valores na nuvem do Ubidots
    * Armazenar valores e interação com MQTT e Node-Red
    
- 6. [Módulo de reconhecimento de sensor de cor tcs34725](https://github.com/hideakitai/TCS34725) SPI connection [default d1 d2 pins](https://steve.fi/hardware/nodemcu/default-pins/), [webserver example](https://gist.github.com/debsahu/046b2b2683975a6dc44db3346be6ec57), [interconnection example](http://www.esp8266learning.com/esp8266-tcs34725-color-sensor.php#google_vignette), 
- 7. [ Sensor de Batimento Cardíaco e Oxímetro – MAX30100](https://curtocircuito.com.br/blog/Categoria%20Arduino/como-utilizar-o-sensor-de-batimento-cardiaco-e-oximetro-%E2%80%93-max30100)
- 8. [Como usar o sensor de som MAX9814](https://curtocircuito.com.br/blog/como-usar-o-max9814)
- 9. [VL6180X distance and ambient light sensor library + gestos ](https://www.arduino.cc/reference/en/libraries/vl6180x/)
- 10. [flame sensor](https://www.electronicshub.org/arduino-flame-sensor-interface/)
- 11. 2 [light cup](https://arduinomodules.info/ky-027-magic-light-cup-module/)
- 12. 
+ 6. [Módulo de reconhecimento de sensor de cor tcs34725](https://github.com/hideakitai/TCS34725) SPI connection [default d1 d2 pins](https://steve.fi/hardware/nodemcu/default-pins/), [webserver example](https://gist.github.com/debsahu/046b2b2683975a6dc44db3346be6ec57), [interconnection example](http://www.esp8266learning.com/esp8266-tcs34725-color-sensor.php#google_vignette), para testar uso algum [software online com cores](https://excalidraw.com/#json=EkgL9PchOKImpZvEwhCh3,3bmDsQ81UmcZRIJmzP4l3Q)
+ 8. [ Sensor de Batimento Cardíaco e Oxímetro – MAX30100](https://curtocircuito.com.br/blog/Categoria%20Arduino/como-utilizar-o-sensor-de-batimento-cardiaco-e-oximetro-%E2%80%93-max30100)
+ 9. [Como usar o sensor de som MAX9814](https://curtocircuito.com.br/blog/como-usar-o-max9814)
+ 10. [VL6180X distance and ambient light sensor library + gestos ](https://www.arduino.cc/reference/en/libraries/vl6180x/)
+ 11. [flame sensor](https://www.electronicshub.org/arduino-flame-sensor-interface/)
+ 12. 2 [light cup](https://arduinomodules.info/ky-027-magic-light-cup-module/)
+ 13. 
 
