@@ -12,7 +12,7 @@
    * Armazenar valores na nuvem do Ubidots
    * Armazenar valores e interação com MQTT e Node-Red
    
- 6. [Módulo de reconhecimento de sensor de cor tcs34725](https://blog.baudaeletronica.com.br/utilizando-o-sensor-de-cor-tcs34725/)
+ 6. [Módulo de reconhecimento de sensor de cor tcs34725](https://github.com/hideakitai/TCS34725)
  7. [ Sensor de Batimento Cardíaco e Oxímetro – MAX30100](https://curtocircuito.com.br/blog/Categoria%20Arduino/como-utilizar-o-sensor-de-batimento-cardiaco-e-oximetro-%E2%80%93-max30100)
  8. [Como usar o sensor de som MAX9814](https://curtocircuito.com.br/blog/como-usar-o-max9814)
  9. [VL6180X distance and ambient light sensor library + gestos ](https://www.arduino.cc/reference/en/libraries/vl6180x/)
