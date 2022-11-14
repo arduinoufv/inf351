@@ -8,6 +8,7 @@
   * [Video](https://www.youtube.com/watch?v=kZdIO82059E)
   * 
 4. [controle de voz](https://www.youtube.com/watch?v=cp2qRrhaZRA) Veja outro [exemplo aqui](https://www.survivingwithandroid.com/esp32-tensorflow-micro-speech-i2s-external-microphone/)
+  * [versao com m5stickC](https://www.tinkerdoodle.cc/user/junfeng/speech-commands.html)
 5. 
 
 
