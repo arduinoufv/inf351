@@ -1,4 +1,4 @@
- testar [arduino lab](https://labs.arduino.cc/en/labs/micropython) step by step [video](https://www.youtube.com/watch?v=HkCaTPMm0RE)
+ testar [arduino lab](https://labs.arduino.cc/en/labs/micropython) step by step [video](https://www.youtube.com/watch?v=HkCaTPMm0RE), another [one](https://www.youtube.com/watch?v=e6unieWNn5I)
 
 
 [Micropython Adafruit](https://learn.adafruit.com/micropython-basics-esp8266-webrepl?view=all)
