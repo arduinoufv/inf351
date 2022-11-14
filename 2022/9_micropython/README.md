@@ -1,4 +1,4 @@
-[Arduino IDE and Python 2022](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
+[Arduino IDE and Python 2022](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/) testar [arduino lab](https://labs.arduino.cc/en/labs/micropython)
 
 
 [Micropython Adafruit](https://learn.adafruit.com/micropython-basics-esp8266-webrepl?view=all)
