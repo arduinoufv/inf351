@@ -1,3 +1,6 @@
+[Arduino IDE and Python 2022](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
+
+
 [Micropython Adafruit](https://learn.adafruit.com/micropython-basics-esp8266-webrepl?view=all)
 
 [Ampy upload/download](
