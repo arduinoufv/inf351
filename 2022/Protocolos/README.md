@@ -1,4 +1,8 @@
+# Ligando Arduinos
 
+[Ligacao de 2 Arduino usando Software Serial no TinkerCad](https://www.tinkercad.com/things/kE2oykfE4eb-software-serial)
+
+# teoria
 [assincrono](https://media.geeksforgeeks.org/wp-content/uploads/20190523143244/Untitled-Diagram-421.png)
 
 [Transmissao Sincrona](https://media.geeksforgeeks.org/wp-content/uploads/20190523143224/Untitled-Diagram-411.png)
