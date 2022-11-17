@@ -19,4 +19,5 @@
  11. [flame sensor](https://www.electronicshub.org/arduino-flame-sensor-interface/)
  12. 2 [light cup](https://arduinomodules.info/ky-027-magic-light-cup-module/)
  13. esp32 s3 c3 pino led 8 ![](https://www.electronics-lab.com/wp-content/uploads/2021/08/esp32-c3-devkitm-1-v1-pinout.jpg)
-
+14. [Nodemcu com ultrasonic](https://www.engineersgarage.com/distance-measurement-with-hcsr04-and-nodemcu/)
+15. [Adicionar Petterson Nodemcu + ultrasonic + matrix de led]()
