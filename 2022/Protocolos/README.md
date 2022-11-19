@@ -3,6 +3,8 @@
 [Ligacao de 2 Arduino usando Software Serial no TinkerCad](https://www.tinkercad.com/things/kE2oykfE4eb-software-serial) : Problemas na simulação no Print string serial do Tinkercad
 
 [Nodemcu e hc12](https://www.esp8266.com/viewtopic.php?f=160&t=14367)
+[webserve nodemcu](https://rees52.com/iot/4821-turn-onoff-led-via-web-server-using-nodemcu-esp8266-12e-board-kt574)
+[webserver send/receive](https://randomnerdtutorials.com/esp8266-nodemcu-web-server-sent-events-sse/)
 
 
 
