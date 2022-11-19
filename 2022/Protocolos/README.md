@@ -1,6 +1,10 @@
 # Ligando Arduinos
 
-[Ligacao de 2 Arduino usando Software Serial no TinkerCad](https://www.tinkercad.com/things/kE2oykfE4eb-software-serial)
+[Ligacao de 2 Arduino usando Software Serial no TinkerCad](https://www.tinkercad.com/things/kE2oykfE4eb-software-serial) : Problemas na simulação no Print string serial do Tinkercad
+
+[Nodemcu e hc12](https://www.esp8266.com/viewtopic.php?f=160&t=14367)
+
+
 
 # teoria
 [assincrono](https://media.geeksforgeeks.org/wp-content/uploads/20190523143244/Untitled-Diagram-421.png)
