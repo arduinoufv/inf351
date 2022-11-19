@@ -12,7 +12,7 @@
 * D8 é o TX do nodemcu que conecta no RX da placa HC12
 * ALimentação do 3.3v **DEVE SER DESLIGADA para FAZER O UPLOAD com a IDE Arduino**
 ![](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/Captura%20de%20tela%20de%202022-11-19%2013-07-43.png?raw=true)
-* download dos códigos:
+* download dos códigos onde **emissor** envia o caracter 1 e alterna seu led a cada 1 segundo, o **receptor** ao receber o caracter 1 alterna o led.
     * [Emissor](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/emissor_node_hc12.ino)
     * [Recpetor](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/receptor_node_12.ino)
 
