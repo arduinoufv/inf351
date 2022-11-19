@@ -16,6 +16,19 @@
     * [Emissor](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/emissor_node_hc12.ino)
     * [Recpetor](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/receptor_node_12.ino)
 
+## Webserver 
+
+* Código com 2 leds conectados ao NodeMCU que funciona no modo AP standalone e prover internet. Conectar na rede NodeMCU no IP 192.168.4.1
+* tem 2 botões para ligar e desligar os leds e um contador é mostrado no led1. 
+* [codigo](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/webserver_standalone_node_2led_d3_d5.ino)
+
+
+## Webserver nodemcu conectado a rede local
+
+* instalar as bibliotecas [webserver assincrono](https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip) e do [tcp assincrono](https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip)
+* colocar a senha do WIFI local
+* Codigo imprime três contadores no servidor [código](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/webserver_conectado_WIFI_local_node.ino)
+
 
 
 # teoria
