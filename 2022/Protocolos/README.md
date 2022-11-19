@@ -6,6 +6,14 @@
 [webserve nodemcu](https://rees52.com/iot/4821-turn-onoff-led-via-web-server-using-nodemcu-esp8266-12e-board-kt574)
 [webserver send/receive](https://randomnerdtutorials.com/esp8266-nodemcu-web-server-sent-events-sse/)
 
+## Codigos da aula
+
+* D7 é o RX do nodemcu que conecta no TX da placa HC12
+* D8 é o TX do nodemcu que conecta no RX da placa HC12
+* ALimentação do 3.3v **DEVE SER DESLIGADA para FAZER O UPLOAD com a IDE Arduino**
+[Emissor]()
+[Recpetor]()
+
 
 
 # teoria
