@@ -37,12 +37,12 @@
 ![](https://how2electronics.com/wp-content/uploads/2020/10/circuit-ESP32-nRF24L01-442x360.png)
 ```
 NRF24L01 VCC ………………………………………… 3.3V of ESP32
-NRF24L01 CSN ………………………………………… D5 of ESP32
-NRF24L01 MOSI ………………………………………… D23 of ESP32
+NRF24L01 CSN ………………………………………… D5 of ESP32    const static uint8_t PIN_RADIO_CSN = 5;
+NRF24L01 MOSI ………………………………………… D23 of ESP32  const static uint8_t PIN_RADIO_MOSI = 23;
 NRF24L01 GND ………………………………………… GND of ESP32
-NRF24L01 CE ………………………………………… D4 of ESP32
-NRF24L01 SCK ………………………………………… D18 of ESP32
-NRF24L01 MISO ………………………………………… D19 of ESP32
+NRF24L01 CE ………………………………………… D4 of ESP32  const static uint8_t PIN_RADIO_CE = 4;
+NRF24L01 SCK ………………………………………… D18 of ESP32 const static uint8_t PIN_RADIO_SCK = 18;
+NRF24L01 MISO ………………………………………… D19 of ESP32 const static uint8_t PIN_RADIO_MISO = 19;
 ```
 ![](https://components101.com/sites/default/files/component_pin/nRF24L01-Pinout.png)
 
