@@ -6,7 +6,9 @@
 [webserve nodemcu](https://rees52.com/iot/4821-turn-onoff-led-via-web-server-using-nodemcu-esp8266-12e-board-kt574)
 [webserver send/receive](https://randomnerdtutorials.com/esp8266-nodemcu-web-server-sent-events-sse/)
 
-## Codigos da aula
+# Codigos da aula
+
+## NodeMCU e HC12
 
 * D7 é o RX do nodemcu que conecta no TX da placa HC12
 * D8 é o TX do nodemcu que conecta no RX da placa HC12
@@ -28,6 +30,10 @@
 * instalar as bibliotecas [webserver assincrono](https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip) e do [tcp assincrono](https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip)
 * colocar a senha do WIFI local
 * Codigo imprime três contadores no servidor [código](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/webserver_conectado_WIFI_local_node.ino)
+
+## Esp32 e NRF24L01
+
+[exemplo](https://how2electronics.com/stm32-nrf24l01-node-with-esp32-nrf24l01-gateway/)
 
 
 
