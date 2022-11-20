@@ -22,12 +22,16 @@
 
 ## Webserver 
 
+![](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/ESP8266-NodeMCU-Web-Server-Soft-Access-Point-AP-Mode-Demonstration.png)
+
 * Código com 2 leds conectados ao NodeMCU que funciona no modo AP standalone e prover internet. Conectar na rede NodeMCU no IP 192.168.4.1
 * tem 2 botões para ligar e desligar os leds e um contador é mostrado no led1. 
 * [codigo](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/webserver_standalone_node_2led_d3_d5.ino)
 
 
 ## Webserver nodemcu conectado a rede local
+
+![](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/ESP8266-NodeMCU-Web-Server-Station-STA-Mode-Demonstration.png)
 
 * instalar as bibliotecas [webserver assincrono](https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip) e do [tcp assincrono](https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip)
 * colocar a senha do WIFI local
