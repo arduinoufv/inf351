@@ -46,7 +46,10 @@ NRF24L01 MISO ………………………………………… D19 of ESP32 cons
 ```
 ![](https://components101.com/sites/default/files/component_pin/nRF24L01-Pinout.png)
 
+* [codigo transmissor Gera um pacote, alterna o led (alguns placas não tem Led no pino 2), envio com o tempo Millis](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/Basic_TX_ESP32_led_rf24.ino)
+* [Codigo Receptor Recebe o pacote e mostra o timestamp, alterna o led](https://github.com/arduinoufv/inf351/blob/master/2022/Protocolos/Basic_TX_ESP32_led_rf24.ino)
 
+Usa a biblioteca rf24l01 lite instalada a partir da IDE, o codigo é uma pequena modificação do exemplo base para o esp32. Outras bibliotecas podem dar problema para compilar para o esp32. 
 
 # teoria
 [assincrono](https://media.geeksforgeeks.org/wp-content/uploads/20190523143244/Untitled-Diagram-421.png)
