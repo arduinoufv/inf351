@@ -10,6 +10,8 @@
 
 ## NodeMCU e HC12
 
+![](https://howtomechatronics.com/wp-content/uploads/2017/07/HC-12-Wireless-Serial-Communication-Module.jpg?ezimgfmt=ng:webp/ngcb2)
+
 * D7 é o RX do nodemcu que conecta no TX da placa HC12
 * D8 é o TX do nodemcu que conecta no RX da placa HC12
 * ALimentação do 3.3v **DEVE SER DESLIGADA para FAZER O UPLOAD com a IDE Arduino**
