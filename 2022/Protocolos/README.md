@@ -34,6 +34,8 @@
 ## Esp32 e NRF24L01
 
 [exemplo](https://how2electronics.com/stm32-nrf24l01-node-with-esp32-nrf24l01-gateway/)
+![](https://how2electronics.com/wp-content/uploads/2020/10/circuit-ESP32-nRF24L01-442x360.png)
+![](https://components101.com/sites/default/files/component_pin/nRF24L01-Pinout.png)
 
 
 
