@@ -59,6 +59,14 @@ NRF24L01 MISO ………………………………………… D19 of ESP32 cons
 
 Usa a biblioteca rf24l01 lite instalada a partir da IDE, o codigo é uma pequena modificação do exemplo base para o esp32. Outras bibliotecas podem dar problema para compilar para o esp32. 
 
+
+# EspNOW
+
+[video medindo a perda de pacotes + codigo](https://www.youtube.com/watch?v=oz0a7Ur7nko)
+
+[ ESPNOW mix with #ESP32 and #ESP8266 ](https://www.youtube.com/watch?v=_eHe7ViXyY8) + [code](https://www.programmingelectronics.com/espnow-esp32-and-esp8266/?utm_source=YouTube&utm_medium=YouTubeDescription&utm_campaign=ESPNOW+mix+with+%23ESP32+and+%23ESP8266&utm_id=LeadGen)
+
+
 # teoria
 [assincrono](https://media.geeksforgeeks.org/wp-content/uploads/20190523143244/Untitled-Diagram-421.png)
 
