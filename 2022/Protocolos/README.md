@@ -62,9 +62,11 @@ Usa a biblioteca rf24l01 lite instalada a partir da IDE, o codigo é uma pequena
 
 # EspNOW
 
-[video medindo a perda de pacotes + codigo](https://www.youtube.com/watch?v=oz0a7Ur7nko)
+## para testar
 
-[ ESPNOW mix with #ESP32 and #ESP8266 ](https://www.youtube.com/watch?v=_eHe7ViXyY8) + [code](https://www.programmingelectronics.com/espnow-esp32-and-esp8266/?utm_source=YouTube&utm_medium=YouTubeDescription&utm_campaign=ESPNOW+mix+with+%23ESP32+and+%23ESP8266&utm_id=LeadGen)
+[ usa platform IO - video medindo a perda de pacotes + codigo](https://www.youtube.com/watch?v=oz0a7Ur7nko)
+
+[ primeiro teste nao funcionou... ESPNOW mix with #ESP32 and #ESP8266 ](https://www.youtube.com/watch?v=_eHe7ViXyY8) + [code](https://www.programmingelectronics.com/espnow-esp32-and-esp8266/?utm_source=YouTube&utm_medium=YouTubeDescription&utm_campaign=ESPNOW+mix+with+%23ESP32+and+%23ESP8266&utm_id=LeadGen)
 
 
 # teoria
