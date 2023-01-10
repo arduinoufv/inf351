@@ -35,8 +35,8 @@ Mesa de Leds tem 4 botoes conectados em d5,d6,d7 e d1- [codigo teste aqui](https
 14. Mix de vários efeitos
 15. Jogando com NodeRed UFV
 16. Jogando com HTTP servidor
-17. Dama
-18. Xadrez
+17. [Jogo de torre](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lD-rlsPqA1wvIGX60UVIW2)
+18. Xadrez ou Dama ou torre de hanoi
 19. [8 rainhas do Xadrez](https://upload.wikimedia.org/wikipedia/commons/1/1f/Eight-queens-animation.gif?20070625172331)
 20. [Percorrer o tabuleiro com Cavalo no Xadrez](https://upload.wikimedia.org/wikipedia/commons/c/ca/Knights-Tour-Animation.gif)
 21. [Pong](https://media3.giphy.com/media/aTGwuEFyg6d8c/giphy.gif)
