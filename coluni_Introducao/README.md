@@ -11,17 +11,20 @@
     
 ## Exercicio 2
   * [Usando 2 leds Externos e conhecendo o Protoboard](https://wokwi.com/projects/358178202736399361)
+  
     * **Tarefa 1**: Modifique Led vermelho piscar 2x mais rapido que o Led verde
     * **Tarefa 2**: Como fazer o led fazer "fading" (aumentar e diminuir o brilho ?
     
 ## Exercicio 3
    * Ligar o Buzzer e fazer alguns sons
+   
     * **Tarefa 1**: Modifique as frequencias e tempo de duração
     * **Tarefa 2**: Como fazer beep começar lento e depois ficar rapido ?
     * **Tarefa 3**: Alguma música pronta na internet
 
 ## Exercicio 4
    * Potenciometro e leitura analógica
+   
     * **Tarefa 1**: [Potenciometro com Buzzer](https://github.com/arduinoufv/inf351/blob/master/coluni_Introducao/Potenciometro_Buzzer_coluni.ino)
     * **Tarefa 2**: Fazer o potenciometro mudar a frequencia do Buzzer ?
     * **Tarefa 3**: [Potenciometro com Led e Buzzer](https://github.com/arduinoufv/inf351/blob/master/coluni_Introducao/Potenciometro_Buzzer_Led_coluni.ino)
