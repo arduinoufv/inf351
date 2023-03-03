@@ -22,6 +22,11 @@
 
 ## Exercicio 4
    * Potenciometro e leitura analógica
+    * **Tarefa 1**: [Potenciometro com Buzzer](https://github.com/arduinoufv/inf351/blob/master/coluni_Introducao/Potenciometro_Buzzer_coluni.ino)
+    * **Tarefa 2**: Fazer o potenciometro mudar a frequencia do Buzzer ?
+    * **Tarefa 3**: [Potenciometro com Led e Buzzer](https://github.com/arduinoufv/inf351/blob/master/coluni_Introducao/Potenciometro_Buzzer_Led_coluni.ino)
+
+   
    
     
    
