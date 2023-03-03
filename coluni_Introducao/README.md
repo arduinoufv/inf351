@@ -18,13 +18,13 @@
 ## Exercicio 3
    * Ligar o Buzzer e fazer alguns sons
    * Tarefas
-    * **Tarefa 1**: Modifique as frequencias e tempo de duração
-    * **Tarefa 2**: Como fazer beep começar lento e depois ficar rapido ?
-    * **Tarefa 3**: Alguma música pronta na internet
+      * **Tarefa 1**: Modifique as frequencias e tempo de duração
+      * **Tarefa 2**: Como fazer beep começar lento e depois ficar rapido ?
+      * **Tarefa 3**: Alguma música pronta na internet
 
 ## Exercicio 4
    * Potenciometro e leitura analógica
-   
+   * Tarefas
     * **Tarefa 1**: [Potenciometro com Buzzer](https://github.com/arduinoufv/inf351/blob/master/coluni_Introducao/Potenciometro_Buzzer_coluni.ino)
     * **Tarefa 2**: Fazer o potenciometro mudar a frequencia do Buzzer ?
     * **Tarefa 3**: [Potenciometro com Led e Buzzer](https://github.com/arduinoufv/inf351/blob/master/coluni_Introducao/Potenciometro_Buzzer_Led_coluni.ino)
