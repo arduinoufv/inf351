@@ -14,7 +14,8 @@
   * [Usando 2 leds Externos e conhecendo o Protoboard](https://wokwi.com/projects/358178202736399361)
   * Tarefas
     * **Tarefa 1**: Modifique Led vermelho piscar 2x mais rapido que o Led verde
-    * **Tarefa 2**: Como fazer o led fazer "fading" (aumentar e diminuir o brilho ?
+    * **Tarefa 2**: Fazer led verde piscar de 3 em 3 segundos, led vermelho de 2 em 2 segundos. Não usar delay, usar 
+    * **Tarefa 3**: Como fazer o led fazer "fading" (aumentar e diminuir o brilho ?
     
 ## Exercicio 3
    * Ligar o Buzzer e fazer alguns sons
