@@ -8,6 +8,7 @@
     * **Tarefa 1**: Modifique o tempo que fica ligado (HIGH), depois o tempo desligado.
     * **Tarefa 2**: Qual o valor do *delay* para que você não perceba que está piscando ?
     * **Tarefa 3**: Faça um programa para piscar 2x rápido e 2x devagar. 
+    * **Tarefa 4**: Testar o [Fading](https://github.com/arduinoufv/inf351/blob/master/coluni_Introducao/fading13.ino)
     
 ## Exercicio 2
   * [Usando 2 leds Externos e conhecendo o Protoboard](https://wokwi.com/projects/358178202736399361)
