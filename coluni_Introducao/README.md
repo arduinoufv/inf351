@@ -146,6 +146,31 @@ void loop() {
 
 ```
 
+segundo código
+
+```
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  pinMode(13,OUTPUT);
+  pinMode(8, OUTPUT);
+}
+
+#define NOTE_C4  262
+int frequencia = 262;
+int tempo = 400;
+
+
+void loop() {
+  tempo = analogRead(A0);
+  tone(8,262);
+  delay(tempo);
+  noTone(8);
+  delay(tempo);
+}  
+
+```
+
    * Tarefas
     * **Tarefa 1**: [Potenciometro com Buzzer](https://github.com/arduinoufv/inf351/blob/master/coluni_Introducao/Potenciometro_Buzzer_coluni.ino)
     * **Tarefa 2**: Fazer o potenciometro mudar a frequencia do Buzzer ?
