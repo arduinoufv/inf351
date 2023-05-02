@@ -51,7 +51,28 @@ void loop() {
   }
 }
 ```
+   ## Exemplo ler um número
    
+   ```
+   void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  if ( Serial.available()) {
+    int dataIn = Serial.parseInt();
+    for (int i= 0; i < dataIn; i++) {
+      digitalWrite(13, HIGH);
+      delay(300);
+      digitalWrite(13, LOW);
+      delay(300);
+    }
+  }
+}
+
+   ```
     
    
   
