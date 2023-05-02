@@ -128,6 +128,7 @@ void loop() {
 
 ## Exercicio 4
    * Potenciometro e leitura analógica
+   
    ```
    int potpin = 0; 
 int val;   
