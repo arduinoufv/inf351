@@ -19,6 +19,29 @@
     
 ## Exercicio 3
    * Ligar o Buzzer e fazer alguns sons
+   * [desenho](https://excalidraw.com/#json=LzW7ja0D9OrnKOmFjVUbQ,S1SOz-VeqlWC23H9sFXblg)
+   
+  ```
+  #define NOTE_C4  262
+#define NOTE_D4  294
+#define SPEAKER_PIN 8
+void setup() {
+ pinMode(SPEAKER_PIN, OUTPUT);
+}
+void loop() {
+ tone(SPEAKER_PIN,NOTE_C4);
+ delay(200);
+ noTone(SPEAKER_PIN);
+ delay(200);
+ tone(SPEAKER_PIN,NOTE_D4);
+ delay(200);
+ noTone(SPEAKER_PIN);
+  delay(200);
+
+  delay(200);
+ }
+
+  ``` 
    * Tarefas
       * **Tarefa 1**: Modifique as frequencias e tempo de duração
       * **Tarefa 2**: Como fazer beep começar lento e depois ficar rapido ?
