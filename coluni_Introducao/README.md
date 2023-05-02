@@ -146,7 +146,7 @@ void loop() {
 
 ```
 
-segundo código
+segundo código  , consultar o [desenho](https://excalidraw.com/#json=SzyN2aLP63zii0KafsDzJ,uFuTvrbLzT9g4pLPJ_d-LQ) 
 
 ```
 void setup() {
