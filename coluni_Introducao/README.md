@@ -32,6 +32,25 @@
     * **Tarefa 3**: [Potenciometro com Led e Buzzer](https://github.com/arduinoufv/inf351/blob/master/coluni_Introducao/Potenciometro_Buzzer_Led_coluni.ino)
 
    
+# Terminal Serial
+
+```
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  if ( Serial.available()) {
+    char letra = Serial.read();
+    if ( letra == 'a' )
+      digitalWrite(13, HIGH);
+    else if ( letra == 'd')
+      digitalWrite(13, LOW);
+  }
+}
+```
    
     
    
