@@ -92,6 +92,35 @@ void loop() {
 }
   ```
   
+  quarto exemplo
+  
+  ```
+  void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  pinMode(13,OUTPUT);
+  pinMode(8, OUTPUT);
+}
+
+#define NOTE_C4  262
+int frequencia = 262;
+int tempo = 400;
+
+
+void loop() {
+
+  for (int i=0; i < 20; i++) {
+    tone(8,262);
+    delay(tempo);
+    noTone(8);
+    delay(tempo);
+    tempo -= 20;
+  }
+  tempo = 400;
+}  
+
+  ```
+  
    * Tarefas
       * **Tarefa 1**: Modifique as frequencias e tempo de duração
       * **Tarefa 2**: Como fazer beep começar lento e depois ficar rapido ?
