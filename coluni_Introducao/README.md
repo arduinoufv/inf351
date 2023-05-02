@@ -128,6 +128,23 @@ void loop() {
 
 ## Exercicio 4
    * Potenciometro e leitura analógica
+   ```
+   int potpin = 0; 
+int val;   
+
+void setup() {
+ Serial.begin(9600);
+}
+
+void loop() {
+ val = analogRead(potpin);          
+ val = map(val, 0, 1023, 0, 180); 
+ Serial.println(val);           
+ delay(300);                     
+}
+
+```
+
    * Tarefas
     * **Tarefa 1**: [Potenciometro com Buzzer](https://github.com/arduinoufv/inf351/blob/master/coluni_Introducao/Potenciometro_Buzzer_coluni.ino)
     * **Tarefa 2**: Fazer o potenciometro mudar a frequencia do Buzzer ?
