@@ -42,6 +42,29 @@ void loop() {
  }
 
   ``` 
+  
+  Segundo exemplo com terminal serial 
+  ```
+  void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  pinMode(13,OUTPUT);
+  pinMode(8, OUTPUT);
+}
+
+#define NOTE_C4  262
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  if ( Serial.available()) {
+    char letra = Serial.read();
+    if ( letra == 'a' )
+      tone(8,NOTE_C4);
+    else if ( letra == 'd')
+      noTone(8);
+  }
+}
+  ```
    * Tarefas
       * **Tarefa 1**: Modifique as frequencias e tempo de duração
       * **Tarefa 2**: Como fazer beep começar lento e depois ficar rapido ?
