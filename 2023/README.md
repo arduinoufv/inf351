@@ -16,7 +16,7 @@
 ## Cronograma
 
 *  Sistemas Embarcados
-*  Entrada e Saída
+*  [Entrada e Saída](https://github.com/arduinoufv/inf351/blob/master/2023/Entrada_Saida.md)
     * Leds
     * Chaves
     * Interrupcoes e Timers
