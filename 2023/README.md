@@ -24,6 +24,7 @@
 * Sensores Digitais
 * Protocolos Seriais
 * MQTT
+* NodeRed
 * Displays
 * Programação com Python
 * Desenvolvimento de Jogos
