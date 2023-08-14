@@ -23,6 +23,7 @@
 * Sensores Analógicos
 * Sensores Digitais
 * Protocolos Seriais
+* Comunicação a distância sem fio com rádios
 * MQTT
 * NodeRed
 * Displays
