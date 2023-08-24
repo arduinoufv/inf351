@@ -7,6 +7,11 @@
     * Teste
  * Trabalho Final 30 pontos
 
+## Trabalho 1
+
+[Adaptar o jogo Genius para Saida com Led RGB, entrada com teclado Serial Python e saida de som no Serial Python](https://blog.eletrogate.com/genius-no-arduino-bora-jogar/)
+
+
 ## Referências
 
 * Programming Arduino TM Next Steps, Going Further with Sketches, **Simon Monk**
