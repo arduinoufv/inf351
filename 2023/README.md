@@ -11,6 +11,7 @@
 
 * [Parte I - Adaptar o jogo Genius para Saida com Led RGB, entrada com teclado Serial Python e saida de som no Serial Python](https://blog.eletrogate.com/genius-no-arduino-bora-jogar/) 
 * Parte II - usar DDRB, PORTB sem usar digitalWrite e analogWrite para acender o led RGB com 8 cores diferentes
+        * [documentação oficial](https://docs.arduino.cc/hacking/software/PortManipulation)
 
 ## Referências
 
