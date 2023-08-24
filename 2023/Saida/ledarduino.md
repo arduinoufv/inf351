@@ -9,3 +9,8 @@
 * [Blink com ajuste de Tempo com Interface Serial](https://github.com/arduinoufv/inf351/blob/master/2023/Saida/blink_serial.ino)
 * Fade-in e Fade-out
 * Limites do Blink
+
+  ## Arduino e Python
+
+  * [codigo arduino em C](https://github.com/arduinoufv/inf351/blob/master/2023/Saida/arduino_python.ino)
+  * [codigo Python](https://github.com/arduinoufv/inf351/blob/master/2023/Saida/arduinopython.py)
