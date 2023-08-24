@@ -17,7 +17,7 @@
 
 *  Sistemas Embarcados
 *  [Entrada e Saída](https://github.com/arduinoufv/inf351/blob/master/2023/Entrada_Saida.md)
-    * Leds
+    * [Leds](https://github.com/arduinoufv/inf351/blob/master/2023/Saida/ledarduino.md)
     * Chaves
     * Interrupcoes e Timers
 * Sensores Analógicos
