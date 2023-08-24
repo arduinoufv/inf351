@@ -14,3 +14,10 @@
 
   * [codigo arduino em C](https://github.com/arduinoufv/inf351/blob/master/2023/Saida/arduino_python.ino)
   * [codigo Python](https://github.com/arduinoufv/inf351/blob/master/2023/Saida/arduinopython.py)
+
+## Arduino , Python e Som
+ * Instalar pip3 install pygame
+  * [codigo Python com Som](https://github.com/arduinoufv/inf351/blob/master/2023/Saida/arduinopythonsound.py)
+  * [fail.wav](https://github.com/arduinoufv/inf351/blob/master/2023/Saida/fail.wav)
+
+  * 
