@@ -24,8 +24,53 @@ Serão pelo menos 4 versões, escolher as que você tiver mais aptidão, fazer u
 7. MQTT + Colab com Gradio QRCODE + Som + esp32 ou nodemcu
 8. Touch com fio ESP32 + fone de ouvido com resistor + led RGB
 9. Touch com fio ESP32 + fone de ouvido com resistor + led ws1812
-10. 
 
+
+## Trabalho 3 - Uso de Sensores/Celular e Led Endereçavel
+
+Fazer o jogo com Led ws1812 e sensores. Fazer 2 opções. Pode ser em Grupo de 2
+1. Ultrasom e Mesa de Led/painel 16x16
+2. Acelerometro com M5stickC e Mesa de Led/painel 16x16
+3. Sensor Laser e Mesa de Led/painel 16x16
+4. Interface com HTML e Mesa de Led/painel 16x16
+5. Interface com MQTT e Mesa de Led/painel 16x16
+
+## Trabalho 4 - Uso de NodeRed/Display e Led Endereçavel
+
+Fazer o jogo com Led ws1812 . Fazer 2 opções. Pode ser em Grupo de 2
+1. Esp32 touch  e Mesa de Led/painel 16x16
+2. Relogio touch com Som e Mesa de Led/painel 16x16
+3. Relogio com som Bluetooth e Mesa de Led/painel 16x16
+4. Interface com Nodered na Cloud com som e Mesa de Led/painel 16x16
+
+## Trabalho 5 - Uso de Display e Max 8x8 Led
+
+Fazer olhos com movimento com três opções + ultrasom ou laser ou acelerometro ou touch fio
+1. Display 16x2 + shield de botoes + Arduino Uno
+2. Display Gragico Esp32 ou M5stickC
+3. Mesa de Led
+4. Max7912
+
+## Trabalho 6 - Menu com jogos
+fazer três opções. Pode ser em grupo de 2.
+
+1. shield de botoes + Oled + menu de jogos
+2. Touch esp32 + Oled + menu de jogos
+3. Esp32 touch + mesa Led + menu de jogos
+4. MQTT gradio + mesa de led ou painel 16x16 + menu de jogos
+5. MQTT cloud Nodered + mesa de led ou painel 16x16 + menu de jogos
+
+## trabalho 7 - Radios Lora, nrf24L01, HC12, Mesh
+
+## Trabalho 8 - Machine Learning
+
+## Projeto Livre
+
+Escolher um tema
+1. Efeitos POV com led
+2. Jogo Arcade Bitka DPI
+3. Aprendizado Federativo
+4. Node-Red Cloud
 
 ## Referências
 
