@@ -12,7 +12,11 @@ Serão pelo menos 4 versões, escolher as que você tiver mais aptidão, fazer u
    * [github](https://github.com/paiva98/connection_example_WIFI-UFV2)
 5. MQTT com NodeMCU com APP celular, led RGB
 6. MQTT + Colab com Iwidgets + Som + esp32 ou nodemcu
+   * [exemplo de Colab base](https://colab.research.google.com/drive/1viCBWvAyIaS6EL8RZYft9AgnutAx3vfv?usp=sharing)
 7. MQTT + Colab com Gradio QRCODE + Som + esp32 ou nodemcu
-8. Touch com fio ESP32 + fone de ouvido com resistor + led RGB
-9. Touch com fio ESP32 + fone de ouvido com resistor + led ws1812
+   * [exemplo de Colab base](https://colab.research.google.com/drive/1viCBWvAyIaS6EL8RZYft9AgnutAx3vfv?usp=sharing)
+10. Touch com fio ESP32 + fone de ouvido com resistor + led RGB
+    * [árduino e cia - touch](https://www.arduinoecia.com.br/como-usar-o-touch-capacitivo-do-esp32/)
+    * [fone](https://forum.arduino.cc/t/play-sounds-in-headphones-via-arduino/467623/12)
+12. Touch com fio ESP32 + fone de ouvido com resistor + led ws1812
 
