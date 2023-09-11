@@ -17,6 +17,7 @@ Serão pelo menos 4 versões, escolher as que você tiver mais aptidão, fazer u
    * [exemplo de Colab base](https://colab.research.google.com/drive/1viCBWvAyIaS6EL8RZYft9AgnutAx3vfv?usp=sharing)
 10. Touch com fio ESP32 + fone de ouvido com resistor + led RGB
     * [árduino e cia - touch](https://www.arduinoecia.com.br/como-usar-o-touch-capacitivo-do-esp32/)
-    * [fone](https://forum.arduino.cc/t/play-sounds-in-headphones-via-arduino/467623/12)
+    * [fone](http://www.echanter.com/home/howto-build)
+    * [esp32 video sound](https://www.youtube.com/watch?v=a936wNgtcRA)
 12. Touch com fio ESP32 + fone de ouvido com resistor + led ws1812
 
