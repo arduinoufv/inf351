@@ -5,6 +5,7 @@
 2. [I love UFV com animacao e tempo em segundos](https://wokwi.com/projects/321995158308520530)
 3. [Exemplo de display com 4 linhas e 20 colunas com protocolo I2C](https://wokwi.com/projects/344891772964438612)
 4. [Relogio com LCD + caracteres + RTC](https://wokwi.com/projects/298783436806554120)
+
 ## Placas
 
 1. [Adaptar Simon Game , Genius para Keypad shield](https://www.instructables.com/Simon-Says-With-LCD-Display/)
@@ -12,7 +13,8 @@
 3. [teste do keypad shield](https://www.hackster.io/electropeak/using-1602-lcd-keypad-shield-w-arduino-w-examples-e02d95)
    ![](https://hackster.imgix.net/uploads/attachments/869014/untitled_mu5aKDOZ1V.png?auto=compress%2Cformat&w=740&h=555&fit=max)
    ![](https://cdn.shopify.com/s/files/1/0045/8932/files/lcd-button-ladder.png?100430)
-
+4. [Outros links para projetos com LCD](https://github.com/arduinoufv/inf351/tree/master/2022/lcdshield)
+   
 # Round Esp32 Display
 
 1. [Esp32-s3-round](https://github.com/Makerfabs/ESP32-S3-Round-SPI-TFT-with-Touch-1.28/tree/main)
