@@ -2,7 +2,7 @@
 
 ## Wokwi
 1. [hello world + doc + contador de segundos](https://wokwi.com/projects/321995158308520530)
-2. 
+2. [I love UFV com animacao e tempo em segundos](https://wokwi.com/projects/321995158308520530)
 ## Placas
 
 1. [Adaptar Simon Game , Genius para Keypad shield](https://www.instructables.com/Simon-Says-With-LCD-Display/)
