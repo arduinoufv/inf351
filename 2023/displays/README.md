@@ -4,6 +4,7 @@
 1. [hello world + doc + contador de segundos](https://wokwi.com/projects/321995158308520530)
 2. [I love UFV com animacao e tempo em segundos](https://wokwi.com/projects/321995158308520530)
 3. [Exemplo de display com 4 linhas e 20 colunas com protocolo I2C](https://wokwi.com/projects/344891772964438612)
+4. [Relogio com LCD + caracteres + RTC](https://wokwi.com/projects/298783436806554120)
 ## Placas
 
 1. [Adaptar Simon Game , Genius para Keypad shield](https://www.instructables.com/Simon-Says-With-LCD-Display/)
