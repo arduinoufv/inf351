@@ -57,6 +57,13 @@ Fazer olhos com movimento com três opções + ultrasom ou laser ou acelerometro
 ## Trabalho 6 - Menu com jogos
 fazer três opções. Pode ser em grupo de 2.
 
+* [Exemplo de Menu no Wokwi com Oled](https://wokwi.com/projects/291572875238834696)
+* [outro exemplo Menu no Wokwi com Oled)[https://wokwi.com/projects/373033096377796609]
+* [Exemplo Menu com LCD 4x20](https://wokwi.com/projects/324120284277768788)
+* [Snake no Oled](https://wokwi.com/projects/296135008348799496)
+* [Pong no Oled](https://wokwi.com/projects/348849468083274322)
+* 
+
 1. shield de botoes + Oled + menu de jogos
 2. Touch esp32 + Oled + menu de jogos
 3. Esp32 touch + mesa Led + menu de jogos
