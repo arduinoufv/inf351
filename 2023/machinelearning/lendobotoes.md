@@ -18,4 +18,4 @@
 [Codigo base em python, lembrar de não conectar a IDE do arduino](https://github.com/arduinoufv/inf351/blob/master/2023/machinelearning/getserial.py)
 
 ## Treinamento no Colab
-[lendo dados do serial](https://colab.research.google.com/drive/1IwT91mlsW-kxw5-muHK1JVMrr378bihX?usp=sharing)
+[lendo dados do serial](https://colab.research.google.com/drive/1oHT81jgEf1UosCKvmRMS0hBKcletcjCy?usp=sharing)
