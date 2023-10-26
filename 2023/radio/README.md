@@ -10,12 +10,14 @@
        
 
 ## NRF24L01   
+
 * low cost 5 reais
 * library  
 * aeromodelo
 * Pode fazer mesh, mas é master=slave
 * [Exemplo de lab](https://mundoprojetado.com.br/modulo-nrf24l01/)
 * [exemplo ndemcu](https://thingsbr.com.br/comunicacao-sem-fio-entre-o-arduino-e-o-nodemcu-usando-o-modulo-transceptor-nrf24l01/)
+
 
 
 ## Rede Mesh da "Espressive" nodemcu (8266) esp32
