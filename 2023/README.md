@@ -1,7 +1,11 @@
 # Inf 351 
 
 
+## Outros Gits com Links
 
+* [Sia 19 DHT, 18b20 e IoT](https://github.com/cacauvicosa/sia19)
+* [Ins Terra DHT, Led, IoT](https://github.com/cacauvicosa/InstitutoTerra/tree/master/Exemplos)
+* 
 
 ## Avaliação
 
