@@ -7,3 +7,5 @@
 * [versão com mega](https://www.instructables.com/64x32-RGB-LED-Matrix-With-Arduino-Mega/)
 
 * [play video](https://www.youtube.com/watch?v=Mhly8eg4zvA)
+
+* [animacoes](https://www.youtube.com/watch?v=fVi5Zyh758g)
