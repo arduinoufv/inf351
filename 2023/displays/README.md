@@ -27,3 +27,9 @@
 [fonte 3x3](http://luc.devroye.org/fonts-51468.html)
 
 ![](http://luc.devroye.org/AndersDeFlon-3x3-2005.gif)
+
+# animations
+* [basico oled](https://www.youtube.com/watch?v=jIQSlYtGWTI)
+* [oled aninations I](https://www.youtube.com/watch?v=0KGMFhFQ0YY)
+* [oled animations II](https://www.youtube.com/watch?v=o3PhC_VJdXo)
+* [oled expression](https://www.youtube.com/watch?v=AFScYQp4vwE)
