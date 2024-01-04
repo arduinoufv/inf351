@@ -22,6 +22,8 @@
 3. [Arduino e Esp32 - video](https://www.youtube.com/watch?v=k2c2zCmC_X0)
 4. [eye](https://github.com/printminion/GC9A01-xiao-ESP32C3/tree/main/Arduino_GFX) --- [3d](https://cults3d.com/en/3d-model/gadget/sphere-enclosure-w-scary-fingers-o105-for-waveshare-1-28-round-lcd-and-studio-xiao-esp32c3) --- [sistema de arquivo](https://embarcados.com.br/spiffs-o-sistema-de-arquivos-do-esp8266-32/)
 
+# Eyes
+ [multiple eyes](https://github.com/chrismiller/TeensyEyes)
 # fontes
 
 [fonte 3x3](http://luc.devroye.org/fonts-51468.html)
