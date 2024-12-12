@@ -12,7 +12,7 @@
 ## Trabalhos 
 
 * [Trabalho 1 - Entrada e Saída](https://colab.research.google.com/drive/1TIxAmdQ52vNYV4qBJ-gy8N7VZf5E1Iuf?usp=sharing)
-* [Trabalho 2 - Controle sem Fio com esp32 ou nodeMCU]()
+* [Trabalho 2 - Controle sem Fio com esp32 ou nodeMCU](https://github.com/arduinoufv/inf351/blob/master/2024/trabalho3.md)
 * [Trabalho 3 - Jogo de tabuleiro ou Atari Prazo 15 Janeiro Versão Wokwi](https://github.com/arduinoufv/inf351/blob/master/2024/Trabalho2.md)
-* [Trabalho 4 - Acelerometro]()
+* [Trabalho 4 - Acelerometro e Machine Learning]()
 
