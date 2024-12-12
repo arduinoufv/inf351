@@ -12,3 +12,4 @@
 ## Trabalhos 
 
 * [Trabalho 1 - Entrada e Saída](https://colab.research.google.com/drive/1TIxAmdQ52vNYV4qBJ-gy8N7VZf5E1Iuf?usp=sharing)
+* [Trabalho 2 - Jogo de tabuleiro ou Atari Prazo 15 Janeiro Versão Wokwi]()
