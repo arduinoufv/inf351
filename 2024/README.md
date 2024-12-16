@@ -7,6 +7,7 @@
 ## Sequência de aulas
 
 * [Colab de Entradas e Saidas da Aula](https://colab.research.google.com/drive/1BrGZIr6l4ZAMlwAdqG5CZ6QGqvDdO6w9?usp=sharing)
+* [Colab do esp32 e nodemcu](https://colab.research.google.com/drive/1SUyeAbYhauY4kHgHhbW620ODX-0vWVwj?usp=sharing)
 
 
 ## Trabalhos 
