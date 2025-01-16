@@ -10,7 +10,7 @@
 * [Colab do esp32 e nodemcu](https://colab.research.google.com/drive/1SUyeAbYhauY4kHgHhbW620ODX-0vWVwj?usp=sharing)
 
 
-## Trabalhos 
+## Trabalhos [clique aqui para enviar](https://forms.gle/yPibW7QpcAq9NwXL7)
 
 * [Trabalho 1 - Entrada e Saída](https://colab.research.google.com/drive/1TIxAmdQ52vNYV4qBJ-gy8N7VZf5E1Iuf?usp=sharing)
 * [Trabalho 2 - Controle sem Fio com esp32 ou nodeMCU](https://github.com/arduinoufv/inf351/blob/master/2024/trabalho3.md)
