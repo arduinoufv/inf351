@@ -17,3 +17,6 @@
 * [Trabalho 3 - Jogo de tabuleiro ou Atari Prazo 15 Janeiro Versão Wokwi](https://github.com/arduinoufv/inf351/blob/master/2024/Trabalho2.md)
 * [Trabalho 4 - Acelerometro e Machine Learning]()
 
+* [mqtt e colab com esp32](https://colab.research.google.com/drive/17tpsZDEuLY-HVaVxC5UqgKLjsoAo-En-?usp=sharing)
+* [esp32 e nodemcu roteador, wifi, ...](https://colab.research.google.com/drive/1SUyeAbYhauY4kHgHhbW620ODX-0vWVwj?usp=sharing)
+
